@@ -1,0 +1,335 @@
+{
+    "height": 30,
+    "layer": "top",
+    "modules-left": [
+        "clock",
+        "custom/swaync",
+        "custom/audio_idle_inhibitor",
+        "idle_inhibitor",
+        "hyprland/workspaces",
+        "tray",
+        "custom/wallpaper"
+    ],
+    "modules-center": [
+        "custom/launcher",
+        "wlr/taskbar"
+    ],
+    "modules-right": [
+        "custom/usb",
+        "disk",
+        "memory",
+        "cpu",
+        "network",
+        "hyprland/language",
+        "custom/brightness",
+        "custom/hyprshade",
+        "pulseaudio",
+        "pulseaudio#microphone",
+        "custom/power-menu"
+    ],
+    "custom/separator#dot": {
+        "format": "",
+        "interval": "once",
+        "tooltip": false
+    },
+    "custom/separator#dot-line": {
+        "format": "",
+        "interval": "once",
+        "tooltip": false
+    },
+    "custom/separator#line": {
+        "format": "|",
+        "interval": "once",
+        "tooltip": false
+    },
+    "custom/separator#blank": {
+        "format": "",
+        "interval": "once",
+        "tooltip": false
+    },
+    "custom/separator#blank_2": {
+        "format": "  ",
+        "interval": "once",
+        "tooltip": false
+    },
+    "custom/separator#blank_3": {
+        "format": "   ",
+        "interval": "once",
+        "tooltip": false
+    },
+    "hyprland/workspaces": {
+        "format": "{icon} {name}",
+        "on-click": "activate",
+        "format-icons": {
+            "active": "󰮯",
+            "default": "󰊠"
+        },
+        "all-outputs": true,
+        "sort-by-number": true,
+        "persistent-workspaces": {
+            "*": 5
+        },
+        "on-scroll-down": "hyprctl dispatch workspace m+1",
+        "on-scroll-up": "hyprctl dispatch workspace m-1"
+    },
+    "hyprland/window": {
+        "format": "{}"
+    },
+    "tray": {
+        "spacing": 10
+    },
+    "clock": {
+        "interval": 60,
+        "align": 0,
+        "rotate": 0,
+        "tooltip-format": "<big>{:%B %Y}</big>\n<tt><small>{calendar}</small></tt>",
+        "format": "{:%d %b, %I:%M %p}",
+        "format-alt": "{:%a %b %d, %G}"
+    },
+    "bluetooth": {
+        "format": "",
+        "on-click": "blueberry"
+    },
+    "cpu": {
+        "format": "{usage}% 󰍛",
+        "interval": 1,
+        "format-alt-click": "click",
+        "format-alt": "{icon0}{icon1}{icon2}{icon3} {usage:>2}% 󰍛",
+        "format-icons": [
+            "▁",
+            "▂",
+            "▃",
+            "▄",
+            "▅",
+            "▆",
+            "▇",
+            "█"
+        ],
+        "on-click-right": "exec flatpak run net.nokyan.Resources"
+    },
+    "memory": {
+        "interval": 10,
+        "format": "{used:0.1f}G 󰾆",
+        "format-alt": "{percentage}% 󰾆",
+        "format-alt-click": "click",
+        "tooltip": true,
+        "tooltip-format": "{used:0.1f}GB/{total:0.1f}G",
+        "on-click-right": "kitty --title btop sh -c 'btop'"
+    },
+    "disk": {
+        "interval": 30,
+        "path": "/",
+        "format": "{percentage_used}% 󰋊",
+        "format-alt-click": "click",
+        "format-alt": "{free} free  󰋊",
+        "tooltip": true,
+        "tooltip-format": "{used} used out of {total} on {path} ({percentage_used}%)"
+    },
+    "backlight": {
+        "device": "eDP-1",
+        "format": "{icon}",
+        "tooltip-format": "{percent}",
+        "format-icons": [
+            "󱩎 ",
+            "󱩏 ",
+            "󱩐 ",
+            "󱩑 ",
+            "󱩒 ",
+            "󱩓 ",
+            "󱩔 ",
+            "󱩕 ",
+            "󱩖 ",
+            "󰛨 "
+        ],
+        "on-scroll-up": "~/.config/waybar/scripts/brightness.sh --inc",
+        "on-scroll-down": "~/.config/waybar/scripts/brightness.sh --dec"
+    },
+    "group/audio": {
+        "orientation": "horizontal",
+        "modules": [
+            "pulseaudio",
+            "pulseaudio#microphone",
+        ]
+    },
+    "pulseaudio": {
+        "format": "{icon} {volume}%",
+        "format-bluetooth": "{icon} 󰂰 {volume}%",
+        "format-muted": "󰖁",
+        "format-icons": {
+            "headphone": "",
+            "hands-free": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": [
+                "",
+                "",
+                "󰕾",
+                ""
+            ],
+            "ignored-sinks": [
+                "Easy Effects Sink"
+            ],
+        },
+        "scroll-step": 5.0,
+        "on-click": "~/.config/hypr/scripts/volume.sh --toggle",
+        "on-click-right": "pavucontrol -t 3",
+        "on-scroll-up": "~/.config/hypr/scripts/volume.sh --inc",
+        "on-scroll-down": "~/.config/hypr/scripts/volume.sh --dec",
+        "tooltip-format": "{icon} {desc} | {volume}%",
+        "smooth-scrolling-threshold": 1,
+    },
+    "pulseaudio#microphone": {
+        "format": "{format_source}",
+        "format-source": " {volume}%",
+        "format-source-muted": "",
+        "on-click": "~/.config/hypr/scripts/volume.sh --toggle-mic",
+        "on-click-right": "pavucontrol -t 4",
+        "on-scroll-up": "~/.config/hypr/scripts/volume.sh --mic-inc",
+        "on-scroll-down": "~/.config/hypr/scripts/volume.sh --mic-dec",
+        "tooltip-format": "{source_desc} | {source_volume}%",
+        "scroll-step": 5,
+    },
+    "battery": {
+        "interval": 60,
+        "align": 0,
+        "rotate": 0,
+        "full-at": 100,
+        "design-capacity": false,
+        "states": {
+            "good": 95,
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{icon}  {capacity}%",
+        "format-charging": " {capacity}%",
+        "format-plugged": "  {capacity}%",
+        "format-full": "{icon}  Full",
+        "format-alt": "{icon}  {time}",
+        "format-icons": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "format-time": "{H}h {M}min",
+        "tooltip": true
+    },
+    "wlr/taskbar": {
+        "format": "{icon}",
+        "icon-size": 28,
+        "all-outputs": true,
+        "tooltip-format": "{title}",
+        "on-click": "activate",
+        "on-click-middle": "close",
+        "ignore-list": [
+            "wofi"
+        ]
+    },
+    "network": {
+        "tooltip-format-ethernet": "{ifname}  {ipaddr}/{cidr}",
+        "tooltip-format-wifi": "{essid} ({signalStrength}%)",
+        "interval": 2,
+        "on-click-right": "kitty nmtui",
+        "format": "{}",
+        "format-alt-click": "click",
+        "format-alt": "  {ifname} | {ipaddr}/{cidr} | {gwaddr} {essid}",
+        "format-disconnected": "Disconnected",
+        "format-wifi": " {bandwidthDownBytes}  {bandwidthUpBytes} ",
+        "format-ethernet": " {bandwidthDownBytes}  {bandwidthUpBytes} 󰈁"
+    },
+    "hyprland/language": {
+        "format": "{}",
+        "format-en": "En",
+        "format-fa": "Fa"
+    },
+    "mpris": {
+        "format": "{status_icon}  {player}",
+        "format-paused": "{status_icon}  {player}",
+        "status-icons": {
+            "paused": "",
+            "playing": ""
+        }
+    },
+    "idle_inhibitor": {
+        "format": "{icon}",
+        "format-icons": {
+            "activated": " ",
+            "deactivated": " "
+        }
+    },
+    "custom/power-menu": {
+        "format": " ⏻ ",
+        "on-click": "~/.config/rofi/scripts/powermenu.sh"
+    },
+    "custom/launcher": {
+        "format": "",
+        "on-click": "~/.config/rofi/scripts/launcher.sh"
+    },
+    "custom/wallpaper": {
+        "format": "",
+        "on-click": "~/.config/rofi/scripts/wallpaper.sh",
+        "on-click-right": "~/.config/waybar/scripts/wallpaper.sh"
+    },
+    "custom/spotify": {
+        "exec": "python3 ~/.config/waybar/scripts/mediaplayer.py --player spotify",
+        "format": "  {}",
+        "return-type": "json",
+        "on-click": "playerctl play-pause",
+        "on-scroll-up": "playerctl next",
+        "on-scroll-down": "playerctl previous"
+    },
+    "custom/dict": {
+        "format": "📔",
+        "on-click": "exec crow-translate"
+    },
+    "custom/brightness": {
+        "format": "",
+        "tooltip": false,
+        "on-click": "~/.config/waybar/scripts/ddcutil.sh"
+    },
+    "custom/usb": {
+        "format": "⏏",
+        "tooltip": false,
+        "on-click": "~/.config/rofi/scripts/eject-usb.sh"
+    },
+    "custom/audio_idle_inhibitor": {
+        "format": "{icon}",
+        "exec": "sway-audio-idle-inhibit --dry-print-both-waybar",
+        "exec-if": "which sway-audio-idle-inhibit",
+        "return-type": "json",
+        "format-icons": {
+            "output": "",
+            "input": "",
+            "output-input": "  ",
+            "none": ""
+        }
+    },
+    "custom/swaync": {
+        "tooltip": true,
+        "format": "{icon} {}",
+        "format-icons": {
+            "notification": "<span foreground='red'><sup></sup></span>",
+            "none": "",
+            "dnd-notification": "<span foreground='red'><sup></sup></span>",
+            "dnd-none": "",
+            "inhibited-notification": "<span foreground='red'><sup></sup></span>",
+            "inhibited-none": "",
+            "dnd-inhibited-notification": "<span foreground='red'><sup></sup></span>",
+            "dnd-inhibited-none": ""
+        },
+        "return-type": "json",
+        "exec-if": "which swaync-client",
+        "exec": "swaync-client -swb",
+        "on-click": "sleep 0.1 && swaync-client -t -sw",
+        "on-click-right": "swaync-client -d -sw",
+        "escape": true
+    },
+    "custom/hyprshade": {
+        "format": "",
+        "on-click": "hyprshade toggle",
+        "tooltip": false
+    }
+}
