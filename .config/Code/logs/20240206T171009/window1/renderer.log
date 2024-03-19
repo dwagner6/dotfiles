@@ -1,8 +1,0 @@
-2024-02-06 17:10:10.353 [info] Started local extension host with pid 56235.
-2024-02-06 17:10:10.458 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
-2024-02-06 17:10:13.149 [info] [perf] Render performance baseline is 143ms
-2024-02-06 17:14:30.752 [info] Started local extension host with pid 59922.
-2024-02-06 17:14:33.849 [info] [perf] Render performance baseline is 141ms
-2024-02-06 17:14:33.977 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
-2024-02-06 17:17:51.232 [error] [Extension Host] Could not find an SVD file for the chip stm32l476
-2024-02-06 17:17:51.233 [error] [Extension Host] AxiosError: Request failed with status code 404
