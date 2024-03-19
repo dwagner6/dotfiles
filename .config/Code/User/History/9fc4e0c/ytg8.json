@@ -1,0 +1,11 @@
+{
+    "workbench.startupEditor": "none",
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "j"],
+            "after": ["<esc>"]
+        }
+    ],
+    "extensions.ignoreRecommendations": true,
+    "workbench.colorTheme": "One Monokai"
+}

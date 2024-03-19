@@ -1,0 +1,24 @@
+{
+    "workbench.startupEditor": "none",
+    "vim.insertModeKeyBindings": [
+
+        {
+            "before": ["j", "k"],
+            "after": ["<esc>"]
+        }
+    ],
+    "extensions.ignoreRecommendations": true,
+    "workbench.colorTheme": "Monokai Pro",
+    "editor.fontFamily": "'Hack Nerd Font Mono', 'Droid Sans Mono', 'monospace', monospace",
+    "window.titleBarStyle": "custom",
+    "window.menuBarVisibility": "compact",
+    "editor.fontSize": 15,
+    "explorer.confirmDelete": false,
+    "vim.useCtrlKeys": false,
+    "terminal.external.linuxExec": "kitty",
+    "terminal.integrated.fontFamily": "\"Hack Nerd Font Mono\"",
+    "terminal.integrated.fontSize": 15,
+    "stm32-for-vscode.openOCDPath": "/usr/bin/openocd",
+    "stm32-for-vscode.makePath": "/usr/bin/make",
+    "stm32-for-vscode.armToolchainPath": "/usr/bin"
+}

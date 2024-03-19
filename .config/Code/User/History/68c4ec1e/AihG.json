@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "hw_memmap.h": "c",
+        "msp430.h": "c"
+    }
+}

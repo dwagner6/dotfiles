@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../../../pi_pico_env"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"usbcdc.h": "c",
+			"watchdog.h": "c",
+			"systick.h": "c",
+			"lcd.h": "c",
+			"lis3dh.h": "c",
+			"uclib.h": "c",
+			"stdbool.h": "c"
+		}
+	}
+}

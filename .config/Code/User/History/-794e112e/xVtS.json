@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "/home/dwagn/pi_pico_env"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"usbcdc.h": "c",
+			"watchdog.h": "c",
+			"systick.h": "c",
+			"lcd.h": "c"
+		}
+	}
+}

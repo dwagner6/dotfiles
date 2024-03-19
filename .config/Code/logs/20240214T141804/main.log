@@ -1,0 +1,6 @@
+2024-02-14 14:18:05.115 [info] update#setState idle
+2024-02-14 14:18:35.121 [info] update#setState checking for updates
+2024-02-14 14:18:35.127 [info] update#setState available for download
+2024-02-14 15:04:18.075 [error] ptyHost terminated unexpectedly with code 0
+2024-02-14 15:04:18.113 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2024-02-14 15:04:18.113 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 8306]: crashed with code 15 and reason 'killed'

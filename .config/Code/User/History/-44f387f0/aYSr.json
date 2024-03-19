@@ -1,0 +1,11 @@
+{
+	"folders": [],
+	"settings": {
+		"files.associations": {
+			"usbcdc.h": "c",
+			"watchdog.h": "c",
+			"systick.h": "c",
+			"lcd.h": "c"
+		}
+	}
+}

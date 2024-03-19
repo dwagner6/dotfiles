@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "/home/dwagn/pi_pico_env"
+		},
+		{
+			"name": "uno_lis3dh_demo",
+			"path": "../../../../Documents/PlatformIO/Projects/uno_lis3dh_demo"
+		},
+		{
+			"name": "uno_test",
+			"path": "../../../../Documents/PlatformIO/Projects/uno_test"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"usbcdc.h": "c",
+			"watchdog.h": "c",
+			"systick.h": "c",
+			"lcd.h": "c"
+		}
+	}
+}

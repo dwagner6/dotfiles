@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "/home/dwagn/pi_pico_env"
+		},
+		{
+			"name": "rpi_lis3dh_test",
+			"path": "/home/dwagn/Documents/PlatformIO/Projects/rpi_lis3dh_test"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"usbcdc.h": "c",
+			"watchdog.h": "c",
+			"systick.h": "c",
+			"lcd.h": "c"
+		}
+	}
+}

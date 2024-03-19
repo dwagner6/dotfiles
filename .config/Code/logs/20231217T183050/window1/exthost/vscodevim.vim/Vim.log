@@ -1,0 +1,616 @@
+2023-12-17 18:30:53.978 [info] Configuration changed
+2023-12-17 18:30:54.043 [info] Configuration changed
+2023-12-17 18:49:26.590 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-17 18:49:26.607 [info] /home/dwagn/pi_pico_env/drivers/gpio12_int.c.git closed
+2023-12-17 18:49:47.029 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-17 18:49:47.050 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-17 18:49:55.809 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.h
+2023-12-17 18:49:55.831 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-17 18:49:59.932 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio12_int.h
+2023-12-17 18:49:59.994 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.h.git closed
+2023-12-17 18:50:00.026 [info] /home/dwagn/pi_pico_env/drivers/gpio12_int.h closed
+2023-12-17 18:50:03.759 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.h
+2023-12-17 18:50:03.762 [info] /home/dwagn/pi_pico_env/drivers/gpio12_int.h.git closed
+2023-12-17 18:50:50.773 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-17 18:50:50.796 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.h.git closed
+2023-12-17 18:52:46.016 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pb.c
+2023-12-17 18:52:46.034 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-17 18:52:46.380 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.h closed
+2023-12-17 18:52:53.433 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-17 18:52:53.458 [info] /home/dwagn/pi_pico_env/drivers/pb.c.git closed
+2023-12-17 18:53:32.821 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-17 18:53:32.831 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-17 18:59:03.793 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-17 18:59:03.815 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-17 18:59:07.425 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-17 18:59:07.438 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-17 18:59:08.405 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-17 18:59:08.414 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-17 18:59:16.878 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-17 18:59:16.887 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-17 19:03:56.525 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-17 19:03:56.551 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-17 19:04:47.491 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/lcd.c
+2023-12-17 19:04:47.506 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-17 19:05:26.930 [info] /home/dwagn/pi_pico_env/drivers/gpio12_int.h closed
+2023-12-17 19:05:29.276 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.h
+2023-12-17 19:05:29.298 [info] /home/dwagn/pi_pico_env/drivers/lcd.c.git closed
+2023-12-17 19:05:37.107 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-17 19:05:37.116 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.h.git closed
+2023-12-17 19:05:42.800 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-17 19:05:42.812 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-17 19:05:55.199 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-17 19:05:55.209 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-17 19:06:04.241 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-17 19:06:04.249 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-17 19:06:59.264 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-17 19:06:59.275 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-17 19:07:36.655 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-17 19:07:36.684 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-17 23:53:29.104 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pb.c
+2023-12-17 23:53:29.117 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-17 23:54:59.864 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-17 23:54:59.872 [info] /home/dwagn/pi_pico_env/drivers/pb.c.git closed
+2023-12-17 23:55:15.951 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pin27.c
+2023-12-17 23:55:15.964 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-17 23:55:37.752 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.h
+2023-12-17 23:55:37.764 [info] /home/dwagn/pi_pico_env/drivers/pin27.c.git closed
+2023-12-17 23:55:42.839 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-17 23:55:42.852 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.h.git closed
+2023-12-17 23:55:53.403 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.h
+2023-12-17 23:55:53.414 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-17 23:56:10.402 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-17 23:56:10.410 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.h.git closed
+2023-12-17 23:56:10.991 [info] /home/dwagn/pi_pico_env/baremetal/include/rp2040/resets.h closed
+2023-12-17 23:56:21.067 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pb.c
+2023-12-17 23:56:21.076 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-17 23:56:25.081 [info] /home/dwagn/pi_pico_env/drivers/pb.c closed
+2023-12-17 23:56:25.085 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-17 23:56:25.095 [info] /home/dwagn/pi_pico_env/drivers/pb.c.git closed
+2023-12-17 23:57:38.416 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/systick_int.c
+2023-12-17 23:57:38.429 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-17 23:58:14.625 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-17 23:58:14.635 [info] /home/dwagn/pi_pico_env/drivers/systick_int.c.git closed
+2023-12-17 23:58:20.437 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.h
+2023-12-17 23:58:20.445 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-17 23:58:23.290 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio_irq.c
+2023-12-17 23:58:23.304 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.h.git closed
+2023-12-17 23:58:36.031 [info] /home/dwagn/pi_pico_env/drivers/lcd.c closed
+2023-12-17 23:58:40.389 [info] /home/dwagn/pi_pico_env/drivers/gpio12_int.c closed
+2023-12-17 23:58:42.793 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/systick_int.c
+2023-12-17 23:58:42.800 [info] /home/dwagn/pi_pico_env/drivers/gpio_irq.c.git closed
+2023-12-17 23:58:59.712 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-17 23:58:59.726 [info] /home/dwagn/pi_pico_env/drivers/systick_int.c.git closed
+2023-12-18 00:00:12.093 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/systick_int.c
+2023-12-18 00:00:12.101 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-18 00:00:21.099 [info] /home/dwagn/pi_pico_env/drivers/systick_int.c closed
+2023-12-18 00:00:21.115 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_systick_callback.c
+2023-12-18 00:00:21.127 [info] /home/dwagn/pi_pico_env/drivers/systick_int.c.git closed
+2023-12-18 00:02:17.810 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-18 00:02:17.822 [info] /home/dwagn/pi_pico_env/src/test_systick_callback.c.git closed
+2023-12-18 00:02:36.441 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 00:02:36.453 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-18 00:02:47.254 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-18 00:02:47.261 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 00:02:48.028 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-18 00:02:48.038 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-18 00:02:50.177 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-18 00:02:50.186 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-18 00:02:56.797 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 00:02:56.806 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-18 00:03:14.479 [info] /home/dwagn/pi_pico_env/src/test_systick_callback.c closed
+2023-12-18 00:03:14.498 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/adc.c
+2023-12-18 00:03:14.512 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 00:03:18.666 [info] /home/dwagn/pi_pico_env/drivers/adc.c closed
+2023-12-18 00:03:18.670 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 00:03:18.679 [info] /home/dwagn/pi_pico_env/drivers/adc.c.git closed
+2023-12-18 00:03:27.980 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-18 00:03:27.989 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 09:57:24.770 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c closed
+2023-12-18 09:57:24.774 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 09:57:24.783 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-18 09:57:29.587 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-18 09:57:29.594 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 09:57:30.116 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.h
+2023-12-18 09:57:30.124 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-18 09:57:30.950 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_pin27.c
+2023-12-18 09:57:30.962 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.h.git closed
+2023-12-18 09:57:40.444 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pin27.c
+2023-12-18 09:57:40.453 [info] /home/dwagn/pi_pico_env/src/test_pin27.c.git closed
+2023-12-18 09:59:38.305 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_pin27.c
+2023-12-18 09:59:38.314 [info] /home/dwagn/pi_pico_env/drivers/pin27.c.git closed
+2023-12-18 10:06:49.733 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/led.c
+2023-12-18 10:06:49.746 [info] /home/dwagn/pi_pico_env/src/test_pin27.c.git closed
+2023-12-18 10:07:05.265 [info] /home/dwagn/pi_pico_env/drivers/led.c.git closed
+2023-12-18 10:07:54.853 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_adc.c
+2023-12-18 10:07:59.971 [info] /home/dwagn/pi_pico_env/src/test_adc.c.git closed
+2023-12-18 10:09:17.253 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pin27.c
+2023-12-18 10:12:26.708 [info] /home/dwagn/pi_pico_env/baremetal/include/rp2040/io_bank0.h closed
+2023-12-18 10:15:27.363 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-18 10:15:27.373 [info] /home/dwagn/pi_pico_env/drivers/pin27.c.git closed
+2023-12-18 10:16:35.759 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-18 10:16:48.601 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_pin27.c
+2023-12-18 10:16:50.529 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pin27.c
+2023-12-18 10:16:50.539 [info] /home/dwagn/pi_pico_env/src/test_pin27.c.git closed
+2023-12-18 10:17:05.621 [info] /home/dwagn/pi_pico_env/baremetal/include/rp2040/io_bank0.h closed
+2023-12-18 10:17:05.651 [info] /home/dwagn/pi_pico_env/baremetal/include/rp2040/io_bank0.h closed
+2023-12-18 10:17:05.670 [info] /home/dwagn/pi_pico_env/baremetal/include/rp2040/io_bank0.h closed
+2023-12-18 10:18:51.714 [info] /home/dwagn/pi_pico_env/baremetal/include/rp2040/io_bank0.h closed
+2023-12-18 10:20:09.453 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-18 10:20:42.737 [info] /home/dwagn/pi_pico_env/.vscode/settings.json closed
+2023-12-18 10:20:42.782 [info] Configuration changed
+2023-12-18 10:20:48.525 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pin27.c
+2023-12-18 10:20:48.556 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-18 10:20:54.661 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-18 10:20:54.665 [info] /home/dwagn/pi_pico_env/drivers/pin27.c.git closed
+2023-12-18 10:29:07.560 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/systick_int.h
+2023-12-18 10:29:07.578 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-18 10:29:07.607 [info] /home/dwagn/pi_pico_env/drivers/systick_int.h closed
+2023-12-18 10:29:07.639 [info] /home/dwagn/pi_pico_env/.vscode/settings.json closed
+2023-12-18 10:29:07.682 [info] Configuration changed
+2023-12-18 10:29:21.157 [info] /home/dwagn/pi_pico_env/drivers/pin27.c closed
+2023-12-18 10:29:22.322 [info] /home/dwagn/pi_pico_env/src/test_adc.c closed
+2023-12-18 10:29:24.689 [info] /home/dwagn/pi_pico_env/drivers/led.c closed
+2023-12-18 10:29:26.085 [info] /home/dwagn/pi_pico_env/src/test_pin27.c closed
+2023-12-18 10:29:37.171 [info] /home/dwagn/pi_pico_env/drivers/systick_int.h closed
+2023-12-18 10:29:37.188 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/systick_int.c
+2023-12-18 10:29:37.197 [info] /home/dwagn/pi_pico_env/drivers/systick_int.h.git closed
+2023-12-18 10:29:59.878 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-18 10:29:59.888 [info] /home/dwagn/pi_pico_env/drivers/systick_int.c.git closed
+2023-12-18 10:30:26.382 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_pin27.c
+2023-12-18 10:30:26.388 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-18 10:30:33.440 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-18 10:30:33.449 [info] /home/dwagn/pi_pico_env/src/test_pin27.c.git closed
+2023-12-18 10:32:41.055 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_systick_callback.c
+2023-12-18 10:32:41.064 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-18 10:33:03.011 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-18 10:33:03.021 [info] /home/dwagn/pi_pico_env/src/test_systick_callback.c.git closed
+2023-12-18 10:33:05.007 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-18 10:33:05.017 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-18 10:33:44.375 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_systick_callback.c
+2023-12-18 10:33:44.383 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-18 10:33:45.927 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-18 10:33:45.936 [info] /home/dwagn/pi_pico_env/src/test_systick_callback.c.git closed
+2023-12-18 10:34:20.707 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_systick_callback.c
+2023-12-18 10:34:20.714 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-18 10:34:22.353 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-18 10:34:22.362 [info] /home/dwagn/pi_pico_env/src/test_systick_callback.c.git closed
+2023-12-18 10:34:30.335 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_systick_callback.c
+2023-12-18 10:34:30.344 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-18 10:34:33.554 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-18 10:34:33.563 [info] /home/dwagn/pi_pico_env/src/test_systick_callback.c.git closed
+2023-12-18 10:35:23.087 [info] /home/dwagn/pi_pico_env/src/test_systick_callback.c closed
+2023-12-18 10:35:23.103 [info] Active editor: file:///home/dwagn/pi_pico_env/lib/interrupt.h
+2023-12-18 10:35:23.129 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-18 10:35:23.186 [info] /home/dwagn/pi_pico_env/lib/interrupt.h closed
+2023-12-18 10:36:09.103 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/systick_int.c
+2023-12-18 10:36:09.112 [info] /home/dwagn/pi_pico_env/lib/interrupt.h.git closed
+2023-12-18 10:36:44.705 [info] Active editor: file:///home/dwagn/pi_pico_env/lib/interrupt.h
+2023-12-18 10:36:44.713 [info] /home/dwagn/pi_pico_env/drivers/systick_int.c.git closed
+2023-12-18 10:37:24.702 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/systick_int.c
+2023-12-18 10:37:24.713 [info] /home/dwagn/pi_pico_env/lib/interrupt.h.git closed
+2023-12-18 10:37:25.754 [info] Active editor: file:///home/dwagn/pi_pico_env/lib/interrupt.h
+2023-12-18 10:37:25.763 [info] /home/dwagn/pi_pico_env/drivers/systick_int.c.git closed
+2023-12-18 10:51:18.868 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/systick_int.c
+2023-12-18 10:51:18.886 [info] /home/dwagn/pi_pico_env/lib/interrupt.h.git closed
+2023-12-18 10:59:39.898 [info] Active editor: file:///home/dwagn/pi_pico_env/lib/interrupt.h
+2023-12-18 10:59:39.906 [info] /home/dwagn/pi_pico_env/drivers/systick_int.c.git closed
+2023-12-18 11:07:52.282 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio_irq.c
+2023-12-18 11:07:52.297 [info] /home/dwagn/pi_pico_env/lib/interrupt.h.git closed
+2023-12-18 11:08:34.686 [info] Active editor: file:///home/dwagn/pi_pico_env/lib/interrupt.h
+2023-12-18 11:08:34.696 [info] /home/dwagn/pi_pico_env/drivers/gpio_irq.c.git closed
+2023-12-18 11:09:07.657 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/watchdog.c
+2023-12-18 11:09:07.673 [info] /home/dwagn/pi_pico_env/lib/interrupt.h.git closed
+2023-12-18 11:09:11.601 [info] /home/dwagn/pi_pico_env/drivers/watchdog.c closed
+2023-12-18 11:09:11.615 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/systick_int.h
+2023-12-18 11:09:11.629 [info] /home/dwagn/pi_pico_env/drivers/watchdog.c.git closed
+2023-12-18 11:09:13.834 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/systick_int.c
+2023-12-18 11:09:13.844 [info] /home/dwagn/pi_pico_env/drivers/systick_int.h.git closed
+2023-12-18 11:09:41.215 [info] Active editor: file:///home/dwagn/pi_pico_env/lib/interrupt.h
+2023-12-18 11:09:41.227 [info] /home/dwagn/pi_pico_env/drivers/systick_int.c.git closed
+2023-12-18 11:09:58.416 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/systick_int.h
+2023-12-18 11:09:58.426 [info] /home/dwagn/pi_pico_env/lib/interrupt.h.git closed
+2023-12-18 11:10:05.036 [info] /home/dwagn/pi_pico_env/drivers/systick_int.h closed
+2023-12-18 11:10:05.056 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/usbcdc.c
+2023-12-18 11:10:05.073 [info] /home/dwagn/pi_pico_env/drivers/systick_int.h.git closed
+2023-12-18 11:10:18.027 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pll_config.h
+2023-12-18 11:10:18.045 [info] /home/dwagn/pi_pico_env/drivers/usbcdc.c.git closed
+2023-12-18 11:10:19.011 [info] /home/dwagn/pi_pico_env/drivers/pll_config.h closed
+2023-12-18 11:10:19.028 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pll_config.c
+2023-12-18 11:10:19.043 [info] /home/dwagn/pi_pico_env/drivers/pll_config.h.git closed
+2023-12-18 11:10:26.108 [info] /home/dwagn/pi_pico_env/drivers/pll_config.c closed
+2023-12-18 11:10:26.126 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pin27.c
+2023-12-18 11:10:26.141 [info] /home/dwagn/pi_pico_env/drivers/pll_config.c.git closed
+2023-12-18 11:10:28.732 [info] /home/dwagn/pi_pico_env/drivers/pin27.c closed
+2023-12-18 11:10:28.748 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pll_config.c
+2023-12-18 11:10:28.755 [info] /home/dwagn/pi_pico_env/drivers/pin27.c.git closed
+2023-12-18 11:10:32.012 [info] /home/dwagn/pi_pico_env/drivers/pll_config.c closed
+2023-12-18 11:10:32.033 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio12_int.c
+2023-12-18 11:10:32.052 [info] /home/dwagn/pi_pico_env/drivers/pll_config.c.git closed
+2023-12-18 11:10:34.853 [info] /home/dwagn/pi_pico_env/drivers/gpio12_int.c closed
+2023-12-18 11:10:34.875 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio12_int.h
+2023-12-18 11:10:34.893 [info] /home/dwagn/pi_pico_env/drivers/gpio12_int.c.git closed
+2023-12-18 11:10:34.927 [info] /home/dwagn/pi_pico_env/drivers/gpio12_int.h closed
+2023-12-18 11:10:37.966 [info] /home/dwagn/pi_pico_env/drivers/gpio12_int.h closed
+2023-12-18 11:10:37.994 [info] /home/dwagn/pi_pico_env/drivers/gpio12_int.h.git closed
+2023-12-18 11:10:37.998 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/usbcdc.c
+2023-12-18 11:10:40.444 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio_irq.c
+2023-12-18 11:10:40.451 [info] /home/dwagn/pi_pico_env/drivers/usbcdc.c.git closed
+2023-12-18 11:11:37.206 [info] Active editor: file:///home/dwagn/pi_pico_env/lib/interrupt.h
+2023-12-18 11:11:37.217 [info] /home/dwagn/pi_pico_env/drivers/gpio_irq.c.git closed
+2023-12-18 11:13:06.753 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-18 11:13:06.769 [info] /home/dwagn/pi_pico_env/lib/interrupt.h.git closed
+2023-12-18 11:13:07.544 [info] Active editor: file:///home/dwagn/pi_pico_env/lib/interrupt.h
+2023-12-18 11:13:07.553 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-18 11:13:09.830 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-18 11:13:09.840 [info] /home/dwagn/pi_pico_env/lib/interrupt.h.git closed
+2023-12-18 11:17:04.990 [info] /home/dwagn/pi_pico_env/drivers/gpio_irq.c closed
+2023-12-18 11:17:06.323 [info] /home/dwagn/pi_pico_env/drivers/systick_int.c closed
+2023-12-18 11:17:07.439 [info] /home/dwagn/pi_pico_env/drivers/usbcdc.c closed
+2023-12-18 11:17:08.111 [info] /home/dwagn/pi_pico_env/lib/interrupt.h closed
+2023-12-18 11:17:08.680 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 11:17:08.694 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-18 11:17:18.409 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c closed
+2023-12-18 11:17:19.561 [info] /home/dwagn/pi_pico_env/src/test_pin27.c closed
+2023-12-18 11:17:20.429 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.h closed
+2023-12-18 11:17:22.424 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-18 11:17:22.433 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 11:17:35.941 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 11:17:35.949 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-18 11:17:42.795 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-18 11:17:42.803 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 11:17:59.566 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 11:17:59.577 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-18 11:18:05.498 [info] /home/dwagn/pi_pico_env/drivers/tps55289.c closed
+2023-12-18 11:18:06.190 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-18 11:18:06.200 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 11:18:17.139 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 11:18:17.147 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-18 11:18:40.550 [info] /home/dwagn/pi_pico_env/drivers/lcd.c closed
+2023-12-18 11:18:42.259 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-18 11:18:42.267 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 11:18:47.753 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 11:18:47.762 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-18 11:18:49.817 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-18 11:18:49.825 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 11:18:56.933 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 11:18:56.941 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-18 11:20:07.143 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-18 11:20:07.151 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 11:33:00.786 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 11:33:00.794 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-18 11:33:08.111 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/adc.c
+2023-12-18 11:33:08.131 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 11:33:27.701 [info] /home/dwagn/pi_pico_env/drivers/adc.c closed
+2023-12-18 11:33:27.716 [info] /home/dwagn/pi_pico_env/drivers/adc.c.git closed
+2023-12-18 11:39:19.382 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_tps55289.c
+2023-12-18 11:39:33.166 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c closed
+2023-12-18 11:39:33.190 [info] /home/dwagn/pi_pico_env/src/test_tps55289.c.git closed
+2023-12-18 11:39:33.224 [info] Active editor: file:///home/dwagn/pi_pico_env/src/final_project.c
+2023-12-18 11:40:03.522 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 11:40:03.533 [info] /home/dwagn/pi_pico_env/src/final_project.c.git closed
+2023-12-18 11:40:11.521 [info] Active editor: file:///home/dwagn/pi_pico_env/src/final_project.c
+2023-12-18 11:40:11.530 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 11:40:38.011 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.h
+2023-12-18 11:40:38.026 [info] /home/dwagn/pi_pico_env/src/final_project.c.git closed
+2023-12-18 11:40:38.043 [info] /home/dwagn/pi_pico_env/src/power_supply.h closed
+2023-12-18 11:40:41.039 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 11:40:41.048 [info] /home/dwagn/pi_pico_env/src/power_supply.h.git closed
+2023-12-18 11:40:47.748 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.h
+2023-12-18 11:40:47.760 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 11:43:42.313 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 11:43:42.324 [info] /home/dwagn/pi_pico_env/src/power_supply.h.git closed
+2023-12-18 11:43:48.502 [info] Active editor: file:///home/dwagn/pi_pico_env/src/final_project.c
+2023-12-18 11:43:48.528 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 11:47:05.386 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 11:47:05.398 [info] /home/dwagn/pi_pico_env/src/final_project.c.git closed
+2023-12-18 11:47:06.814 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.h
+2023-12-18 11:47:06.829 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 11:47:17.145 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/adc.c
+2023-12-18 11:47:17.162 [info] /home/dwagn/pi_pico_env/src/power_supply.h.git closed
+2023-12-18 11:47:25.142 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio_irq.c
+2023-12-18 11:47:25.157 [info] /home/dwagn/pi_pico_env/drivers/adc.c.git closed
+2023-12-18 11:49:19.295 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/adc.c
+2023-12-18 11:49:19.304 [info] /home/dwagn/pi_pico_env/drivers/gpio_irq.c.git closed
+2023-12-18 11:49:21.671 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/adc.c
+2023-12-18 11:49:22.990 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio_irq.c
+2023-12-18 11:49:31.773 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/adc.c
+2023-12-18 11:50:26.915 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pin27.c
+2023-12-18 11:50:26.928 [info] /home/dwagn/pi_pico_env/drivers/adc.c.git closed
+2023-12-18 11:51:33.543 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/adc.c
+2023-12-18 11:51:33.555 [info] /home/dwagn/pi_pico_env/drivers/pin27.c.git closed
+2023-12-18 12:00:01.688 [info] /home/dwagn/pi_pico_env/baremetal/include/rp2040/clocks.h closed
+2023-12-18 12:00:04.157 [info] /home/dwagn/pi_pico_env/baremetal/include/rp2040/io_bank0.h closed
+2023-12-18 12:00:05.175 [info] /home/dwagn/pi_pico_env/baremetal/include/rp2040/io_bank0.h closed
+2023-12-18 12:00:11.783 [info] /home/dwagn/pi_pico_env/baremetal/include/rp2040/io_bank0.h closed
+2023-12-18 12:01:42.601 [info] /home/dwagn/pi_pico_env/drivers/adc.c closed
+2023-12-18 12:01:42.603 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pin27.c
+2023-12-18 12:01:42.615 [info] /home/dwagn/pi_pico_env/drivers/adc.c.git closed
+2023-12-18 12:01:43.175 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio_irq.c
+2023-12-18 12:01:43.203 [info] /home/dwagn/pi_pico_env/drivers/pin27.c closed
+2023-12-18 12:01:43.204 [info] /home/dwagn/pi_pico_env/drivers/pin27.c.git closed
+2023-12-18 12:01:46.930 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-18 12:01:46.946 [info] /home/dwagn/pi_pico_env/drivers/gpio_irq.c.git closed
+2023-12-18 12:03:47.570 [info] /home/dwagn/pi_pico_env/baremetal/include/rp2040/io_bank0.h closed
+2023-12-18 12:03:55.098 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.h
+2023-12-18 12:03:55.107 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-18 12:03:59.215 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 12:03:59.225 [info] /home/dwagn/pi_pico_env/src/power_supply.h.git closed
+2023-12-18 12:04:51.325 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/watchdog.h
+2023-12-18 12:04:51.340 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 12:04:53.626 [info] /home/dwagn/pi_pico_env/drivers/watchdog.h closed
+2023-12-18 12:04:53.639 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/watchdog.c
+2023-12-18 12:04:53.652 [info] /home/dwagn/pi_pico_env/drivers/watchdog.h.git closed
+2023-12-18 12:05:30.147 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 12:05:30.160 [info] /home/dwagn/pi_pico_env/drivers/watchdog.c.git closed
+2023-12-18 12:06:16.052 [info] /home/dwagn/pi_pico_env/drivers/watchdog.c closed
+2023-12-18 12:06:16.077 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/lcd.c
+2023-12-18 12:06:16.095 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 12:08:01.136 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/lcd.h
+2023-12-18 12:08:01.149 [info] /home/dwagn/pi_pico_env/drivers/lcd.c.git closed
+2023-12-18 12:08:19.053 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/lcd.c
+2023-12-18 12:08:19.062 [info] /home/dwagn/pi_pico_env/drivers/lcd.h.git closed
+2023-12-18 12:08:20.175 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 12:08:20.186 [info] /home/dwagn/pi_pico_env/drivers/lcd.c.git closed
+2023-12-18 12:08:31.105 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/watchdog.c
+2023-12-18 12:08:31.112 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 12:09:26.225 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/watchdog.h
+2023-12-18 12:09:26.229 [info] /home/dwagn/pi_pico_env/drivers/watchdog.c.git closed
+2023-12-18 12:09:47.736 [info] /usr/include/bits/stdint-uintn.h closed
+2023-12-18 12:09:49.133 [info] /home/dwagn/pi_pico_env/drivers/watchdog.h closed
+2023-12-18 12:09:49.138 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/watchdog.c
+2023-12-18 12:09:49.150 [info] /home/dwagn/pi_pico_env/drivers/watchdog.h.git closed
+2023-12-18 12:09:49.937 [info] /home/dwagn/pi_pico_env/drivers/watchdog.c closed
+2023-12-18 12:09:49.943 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 12:09:49.954 [info] /home/dwagn/pi_pico_env/drivers/watchdog.c.git closed
+2023-12-18 12:16:34.765 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.h
+2023-12-18 12:16:34.780 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 12:16:40.421 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 12:16:40.432 [info] /home/dwagn/pi_pico_env/src/power_supply.h.git closed
+2023-12-18 12:17:54.996 [info] /usr/include/bits/stdint-uintn.h closed
+2023-12-18 12:22:49.225 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/tps55289.c
+2023-12-18 12:22:49.248 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 12:23:01.596 [info] /home/dwagn/pi_pico_env/drivers/tps55289.c closed
+2023-12-18 12:23:01.600 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 12:23:01.612 [info] /home/dwagn/pi_pico_env/drivers/tps55289.c.git closed
+2023-12-18 12:30:31.817 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-18 12:30:31.827 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 12:31:44.700 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 12:31:44.713 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-18 12:33:07.741 [warning] invalid cursor position. [[136, 16] | [136, 16]].
+2023-12-18 12:36:16.756 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/lcd.c
+2023-12-18 12:36:16.765 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 12:36:46.153 [info] Active editor: file:///home/dwagn/pi_pico_env/src/final_project.c
+2023-12-18 12:36:46.162 [info] /home/dwagn/pi_pico_env/drivers/lcd.c.git closed
+2023-12-18 12:36:47.027 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.h
+2023-12-18 12:36:47.037 [info] /home/dwagn/pi_pico_env/src/final_project.c.git closed
+2023-12-18 12:36:50.557 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 12:36:50.566 [info] /home/dwagn/pi_pico_env/src/power_supply.h.git closed
+2023-12-18 12:37:53.941 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/lcd.c
+2023-12-18 12:37:53.951 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 12:38:04.092 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 12:38:04.101 [info] /home/dwagn/pi_pico_env/drivers/lcd.c.git closed
+2023-12-18 12:38:18.438 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-18 12:38:18.452 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 12:38:28.322 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pin27.c
+2023-12-18 12:38:37.708 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 12:38:37.711 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-18 12:38:56.611 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-18 12:38:56.622 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 12:40:22.662 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 12:40:22.673 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-18 12:40:52.435 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/lcd.c
+2023-12-18 12:40:52.447 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 12:40:54.615 [info] /home/dwagn/pi_pico_env/drivers/pin27.c.git closed
+2023-12-18 12:40:54.619 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/lcd.c
+2023-12-18 12:40:54.638 [info] /home/dwagn/pi_pico_env/drivers/lcd.c.git closed
+2023-12-18 12:41:33.885 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_pin27.c
+2023-12-18 12:41:33.903 [info] /home/dwagn/pi_pico_env/drivers/lcd.c.git closed
+2023-12-18 12:42:16.915 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-18 12:42:16.918 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 12:42:24.491 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_pin27.c
+2023-12-18 12:42:49.868 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 12:42:49.871 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-18 12:42:59.717 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_pin27.c
+2023-12-18 12:44:56.710 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-18 12:44:56.732 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 12:45:26.985 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pin27.c
+2023-12-18 12:45:26.997 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-18 12:45:36.616 [info] /home/dwagn/pi_pico_env/src/test_pin27.c.git closed
+2023-12-18 12:45:36.620 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pin27.c
+2023-12-18 12:45:36.640 [info] /home/dwagn/pi_pico_env/drivers/pin27.c.git closed
+2023-12-18 12:45:44.093 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-18 12:49:17.393 [info] /home/dwagn/pi_pico_env/src/test_pin27.c closed
+2023-12-18 12:49:18.328 [info] /home/dwagn/pi_pico_env/drivers/pin27.c closed
+2023-12-18 12:49:18.343 [info] /home/dwagn/pi_pico_env/drivers/pin27.c.git closed
+2023-12-18 12:49:19.206 [info] /home/dwagn/pi_pico_env/drivers/lcd.c closed
+2023-12-18 12:49:19.207 [info] /home/dwagn/pi_pico_env/drivers/lcd.c.git closed
+2023-12-18 12:49:22.041 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 12:49:22.051 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-18 12:49:59.575 [info] Active editor: file:///home/dwagn/pi_pico_env/src/final_project.c
+2023-12-18 12:49:59.585 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 12:50:17.258 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 12:50:17.268 [info] /home/dwagn/pi_pico_env/src/final_project.c.git closed
+2023-12-18 13:05:53.500 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/adc.c
+2023-12-18 13:05:53.508 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 13:06:19.248 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/adc.h
+2023-12-18 13:06:19.261 [info] /home/dwagn/pi_pico_env/drivers/adc.c.git closed
+2023-12-18 13:06:19.286 [info] /home/dwagn/pi_pico_env/drivers/adc.h closed
+2023-12-18 13:06:23.765 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/adc.c
+2023-12-18 13:06:23.774 [info] /home/dwagn/pi_pico_env/drivers/adc.h.git closed
+2023-12-18 13:12:38.441 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-18 13:12:38.450 [info] /home/dwagn/pi_pico_env/drivers/adc.c.git closed
+2023-12-18 13:17:11.026 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/adc.c
+2023-12-18 13:17:11.035 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-18 13:18:09.893 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-18 13:21:40.289 [info] /home/dwagn/pi_pico_env/baremetal/include/rp2040/io_bank0.h closed
+2023-12-18 13:24:58.672 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/led.c
+2023-12-18 13:24:58.687 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-18 13:27:16.286 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/adc.c
+2023-12-18 13:31:10.679 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-18 13:31:10.683 [info] /home/dwagn/pi_pico_env/drivers/led.c.git closed
+2023-12-18 13:31:15.030 [info] /home/dwagn/pi_pico_env/drivers/led.c closed
+2023-12-18 13:31:15.046 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.h
+2023-12-18 13:31:15.058 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-18 13:31:31.027 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-18 13:31:31.036 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.h.git closed
+2023-12-18 13:31:57.104 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.h
+2023-12-18 13:31:57.111 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-18 13:32:06.892 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.h closed
+2023-12-18 13:32:06.913 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.h.git closed
+2023-12-18 13:32:06.951 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio11_int.h
+2023-12-18 13:32:08.102 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio13_int.c
+2023-12-18 13:32:08.107 [info] /home/dwagn/pi_pico_env/drivers/gpio11_int.h.git closed
+2023-12-18 13:32:15.950 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c closed
+2023-12-18 13:32:16.000 [info] /home/dwagn/pi_pico_env/drivers/gpio13_int.c.git closed
+2023-12-18 13:32:16.044 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio11_int.c
+2023-12-18 13:32:16.396 [info] /home/dwagn/pi_pico_env/drivers/gpio11_int.h closed
+2023-12-18 13:33:54.060 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pb.c
+2023-12-18 13:33:54.076 [info] /home/dwagn/pi_pico_env/drivers/gpio11_int.c.git closed
+2023-12-18 13:34:00.672 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio11_int.c
+2023-12-18 13:34:00.695 [info] /home/dwagn/pi_pico_env/drivers/pb.c.git closed
+2023-12-18 13:34:15.925 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pb.c
+2023-12-18 13:34:15.936 [info] /home/dwagn/pi_pico_env/drivers/gpio11_int.c.git closed
+2023-12-18 13:34:27.844 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio11_int.h
+2023-12-18 13:34:27.878 [info] /home/dwagn/pi_pico_env/drivers/pb.c.git closed
+2023-12-18 13:34:30.504 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio11_int.c
+2023-12-18 13:34:30.530 [info] /home/dwagn/pi_pico_env/drivers/gpio11_int.h.git closed
+2023-12-18 13:34:43.637 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio11_int.h
+2023-12-18 13:34:43.645 [info] /home/dwagn/pi_pico_env/drivers/gpio11_int.c.git closed
+2023-12-18 13:34:44.630 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio11_int.c
+2023-12-18 13:34:44.660 [info] /home/dwagn/pi_pico_env/drivers/gpio11_int.h.git closed
+2023-12-18 13:34:45.340 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pb.c
+2023-12-18 13:34:45.352 [info] /home/dwagn/pi_pico_env/drivers/gpio11_int.c.git closed
+2023-12-18 13:34:51.199 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio11_int.c
+2023-12-18 13:34:51.208 [info] /home/dwagn/pi_pico_env/drivers/pb.c.git closed
+2023-12-18 13:35:59.425 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 13:35:59.428 [info] /home/dwagn/pi_pico_env/drivers/adc.c.git closed
+2023-12-18 13:38:00.359 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/lcd.h
+2023-12-18 13:38:00.374 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 13:38:09.760 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.h
+2023-12-18 13:38:09.770 [info] /home/dwagn/pi_pico_env/drivers/lcd.h.git closed
+2023-12-18 13:38:21.467 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 13:38:21.478 [info] /home/dwagn/pi_pico_env/src/power_supply.h.git closed
+2023-12-18 13:38:25.626 [info] /home/dwagn/pi_pico_env/drivers/tps55289.c closed
+2023-12-18 13:38:41.973 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio11_int.c
+2023-12-18 13:38:52.976 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 13:40:07.822 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio11_int.c
+2023-12-18 13:42:23.309 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_pin27.c
+2023-12-18 13:42:23.318 [info] /home/dwagn/pi_pico_env/drivers/gpio11_int.c.git closed
+2023-12-18 13:42:28.625 [info] /home/dwagn/pi_pico_env/src/test_pin27.c closed
+2023-12-18 13:42:28.644 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pin27.h
+2023-12-18 13:42:28.661 [info] /home/dwagn/pi_pico_env/src/test_pin27.c.git closed
+2023-12-18 13:42:31.493 [info] /home/dwagn/pi_pico_env/drivers/pin27.h closed
+2023-12-18 13:42:31.506 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pin27.c
+2023-12-18 13:42:31.512 [info] /home/dwagn/pi_pico_env/drivers/pin27.h.git closed
+2023-12-18 13:42:45.424 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio11_int.c
+2023-12-18 13:42:45.454 [info] /home/dwagn/pi_pico_env/drivers/pin27.c.git closed
+2023-12-18 13:44:01.669 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pin27.c
+2023-12-18 13:44:01.683 [info] /home/dwagn/pi_pico_env/drivers/gpio11_int.c.git closed
+2023-12-18 13:44:11.072 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio11_int.c
+2023-12-18 13:44:11.096 [info] /home/dwagn/pi_pico_env/drivers/pin27.c.git closed
+2023-12-18 13:45:28.909 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_pin27.c
+2023-12-18 13:45:28.915 [info] /home/dwagn/pi_pico_env/drivers/gpio11_int.c.git closed
+2023-12-18 13:45:41.079 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.h
+2023-12-18 13:45:41.081 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 13:45:43.686 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 13:45:43.701 [info] /home/dwagn/pi_pico_env/src/power_supply.h.git closed
+2023-12-18 13:46:30.485 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio11_int.c
+2023-12-18 13:46:30.513 [info] /home/dwagn/pi_pico_env/src/test_pin27.c.git closed
+2023-12-18 13:48:26.092 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 13:48:53.702 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio11_int.c
+2023-12-18 13:49:05.952 [info] /home/dwagn/pi_pico_env/baremetal/include/rp2040/io_bank0.h closed
+2023-12-18 13:49:06.000 [info] /home/dwagn/pi_pico_env/baremetal/include/rp2040/io_bank0.h closed
+2023-12-18 13:49:06.034 [info] /home/dwagn/pi_pico_env/baremetal/include/rp2040/io_bank0.h closed
+2023-12-18 13:49:06.065 [info] /home/dwagn/pi_pico_env/baremetal/include/rp2040/io_bank0.h closed
+2023-12-18 13:49:06.099 [info] /home/dwagn/pi_pico_env/baremetal/include/rp2040/io_bank0.h closed
+2023-12-18 14:12:17.968 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_pin27.c
+2023-12-18 14:12:17.983 [info] /home/dwagn/pi_pico_env/drivers/gpio11_int.c.git closed
+2023-12-18 14:12:19.078 [info] /home/dwagn/pi_pico_env/src/test_pin27.c closed
+2023-12-18 14:12:19.081 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pin27.c
+2023-12-18 14:12:19.096 [info] /home/dwagn/pi_pico_env/src/test_pin27.c.git closed
+2023-12-18 14:12:20.656 [info] /home/dwagn/pi_pico_env/drivers/pb.c closed
+2023-12-18 14:12:21.422 [info] /home/dwagn/pi_pico_env/drivers/pin27.c closed
+2023-12-18 14:12:21.427 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio11_int.h
+2023-12-18 14:12:21.440 [info] /home/dwagn/pi_pico_env/drivers/pin27.c.git closed
+2023-12-18 14:12:22.076 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 14:12:22.107 [info] /home/dwagn/pi_pico_env/drivers/gpio11_int.h closed
+2023-12-18 14:12:22.108 [info] /home/dwagn/pi_pico_env/drivers/gpio11_int.h.git closed
+2023-12-18 14:44:05.681 [info] /home/dwagn/pi_pico_env/drivers/gpio_irq.c closed
+2023-12-18 14:44:09.306 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/adc.h
+2023-12-18 14:44:09.318 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 14:44:09.965 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/lcd.h
+2023-12-18 14:44:09.980 [info] /home/dwagn/pi_pico_env/drivers/adc.h.git closed
+2023-12-18 14:44:25.501 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio11_int.h
+2023-12-18 14:44:25.514 [info] /home/dwagn/pi_pico_env/drivers/lcd.h.git closed
+2023-12-18 14:44:25.536 [info] /home/dwagn/pi_pico_env/drivers/gpio11_int.h closed
+2023-12-18 14:44:33.256 [info] Active editor: file:///home/dwagn/pi_pico_env/src/final_project.c
+2023-12-18 14:44:33.273 [info] /home/dwagn/pi_pico_env/drivers/gpio11_int.h.git closed
+2023-12-18 14:44:35.078 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.h
+2023-12-18 14:44:35.094 [info] /home/dwagn/pi_pico_env/src/final_project.c.git closed
+2023-12-18 14:44:37.811 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 14:44:37.823 [info] /home/dwagn/pi_pico_env/src/power_supply.h.git closed
+2023-12-18 14:44:53.908 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/tps55289.c
+2023-12-18 14:44:53.921 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 14:44:55.136 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/tps55289.h
+2023-12-18 14:44:55.149 [info] /home/dwagn/pi_pico_env/drivers/tps55289.c.git closed
+2023-12-18 14:44:55.172 [info] /home/dwagn/pi_pico_env/drivers/tps55289.h closed
+2023-12-18 14:45:05.627 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/lcd.h
+2023-12-18 14:45:05.637 [info] /home/dwagn/pi_pico_env/drivers/tps55289.h.git closed
+2023-12-18 14:45:11.507 [info] Active editor: file:///home/dwagn/pi_pico_env/src/final_project.c
+2023-12-18 14:45:11.517 [info] /home/dwagn/pi_pico_env/drivers/lcd.h.git closed
+2023-12-18 14:46:38.673 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.h
+2023-12-18 14:46:38.684 [info] /home/dwagn/pi_pico_env/src/final_project.c.git closed
+2023-12-18 14:47:15.688 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 14:47:15.699 [info] /home/dwagn/pi_pico_env/src/power_supply.h.git closed
+2023-12-18 14:48:19.295 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/tps55289.c
+2023-12-18 14:48:19.306 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 14:49:15.331 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/tps55289.h
+2023-12-18 14:49:15.345 [info] /home/dwagn/pi_pico_env/drivers/tps55289.c.git closed
+2023-12-18 14:49:39.624 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio11_int.c
+2023-12-18 14:49:39.642 [info] /home/dwagn/pi_pico_env/drivers/tps55289.h.git closed
+2023-12-18 14:50:49.978 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio11_int.h
+2023-12-18 14:50:49.989 [info] /home/dwagn/pi_pico_env/drivers/gpio11_int.c.git closed
+2023-12-18 14:51:14.191 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/adc.c
+2023-12-18 14:51:14.210 [info] /home/dwagn/pi_pico_env/drivers/gpio11_int.h.git closed
+2023-12-18 14:52:14.273 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/adc.h
+2023-12-18 14:52:14.283 [info] /home/dwagn/pi_pico_env/drivers/adc.c.git closed
+2023-12-18 14:52:43.992 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/lcd.h
+2023-12-18 14:52:44.000 [info] /home/dwagn/pi_pico_env/drivers/adc.h.git closed
+2023-12-18 14:52:54.596 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio_irq.c
+2023-12-18 14:52:54.611 [info] /home/dwagn/pi_pico_env/drivers/lcd.h.git closed
+2023-12-18 14:52:55.536 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio_irq.h
+2023-12-18 14:52:55.550 [info] /home/dwagn/pi_pico_env/drivers/gpio_irq.c.git closed
+2023-12-18 14:52:55.572 [info] /home/dwagn/pi_pico_env/drivers/gpio_irq.h closed
+2023-12-18 14:53:41.543 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio_irq.c
+2023-12-18 14:53:41.552 [info] /home/dwagn/pi_pico_env/drivers/gpio_irq.h.git closed
+2023-12-18 14:54:19.682 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/gpio_irq.h
+2023-12-18 14:54:19.693 [info] /home/dwagn/pi_pico_env/drivers/gpio_irq.c.git closed
+2023-12-18 14:54:21.663 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/tps55289.c
+2023-12-18 14:54:21.671 [info] /home/dwagn/pi_pico_env/drivers/gpio_irq.h.git closed
+2023-12-18 14:54:22.100 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 14:54:22.111 [info] /home/dwagn/pi_pico_env/drivers/tps55289.c.git closed
+2023-12-18 14:54:32.505 [info] Active editor: file:///home/dwagn/pi_pico_env/lib/uclib.h
+2023-12-18 14:54:32.522 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 14:54:32.558 [info] /home/dwagn/pi_pico_env/lib/uclib.h closed
+2023-12-18 14:54:34.121 [info] Active editor: file:///home/dwagn/pi_pico_env/lib/uclib.c
+2023-12-18 14:54:34.136 [info] /home/dwagn/pi_pico_env/lib/uclib.h.git closed
+2023-12-18 14:55:15.515 [info] Active editor: file:///home/dwagn/pi_pico_env/src/test_adc.c
+2023-12-18 14:55:15.530 [info] /home/dwagn/pi_pico_env/lib/uclib.c.git closed
+2023-12-18 14:55:21.294 [info] /home/dwagn/pi_pico_env/src/test_adc.c closed
+2023-12-18 14:55:21.298 [info] Active editor: file:///home/dwagn/pi_pico_env/lib/uclib.c
+2023-12-18 14:55:21.308 [info] /home/dwagn/pi_pico_env/src/test_adc.c.git closed
+2023-12-18 14:55:23.725 [info] Active editor: file:///home/dwagn/pi_pico_env/src/power_supply.c
+2023-12-18 14:55:23.734 [info] /home/dwagn/pi_pico_env/lib/uclib.c.git closed
+2023-12-18 14:55:34.592 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pb.c
+2023-12-18 14:55:34.610 [info] /home/dwagn/pi_pico_env/src/power_supply.c.git closed
+2023-12-18 14:55:35.621 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pb.h
+2023-12-18 14:55:35.636 [info] /home/dwagn/pi_pico_env/drivers/pb.c.git closed
+2023-12-18 14:55:35.683 [info] /home/dwagn/pi_pico_env/drivers/pb.h closed
+2023-12-18 14:55:40.997 [info] Active editor: file:///home/dwagn/pi_pico_env/drivers/pb.c
+2023-12-18 14:55:41.009 [info] /home/dwagn/pi_pico_env/drivers/pb.h.git closed
+2023-12-18 14:56:28.810 [info] /home/dwagn/pi_pico_env/baremetal/include/rp2040/resets.h closed
+2023-12-18 14:56:28.977 [info] /home/dwagn/pi_pico_env/baremetal/include/rp2040/resets.h closed
+2023-12-18 14:56:29.010 [info] /home/dwagn/pi_pico_env/baremetal/include/rp2040/resets.h closed
+2023-12-18 15:06:07.483 [info] Active editor: file:///home/dwagn/pi_pico_env/final_report/EECE_458_Final_Report.tex
+2023-12-18 15:06:07.522 [info] /home/dwagn/pi_pico_env/drivers/pb.c.git closed

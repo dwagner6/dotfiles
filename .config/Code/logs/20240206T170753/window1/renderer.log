@@ -1,0 +1,7 @@
+2024-02-06 17:07:55.999 [info] Started local extension host with pid 55769.
+2024-02-06 17:07:56.173 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:07:56.288 [error] Extension 'ms-python.python' wants API proposal 'saveEditor' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-02-06 17:07:59.103 [info] [perf] Render performance baseline is 144ms
+2024-02-06 17:08:11.922 [info] Started local extension host with pid 55973.
+2024-02-06 17:08:12.000 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:14.692 [info] [perf] Render performance baseline is 141ms

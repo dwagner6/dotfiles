@@ -1,0 +1,188 @@
+\documentclass[12pt]{article}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{fix-cm}
+\usepackage{array}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{pgfplots, pgfplotstable}
+\usepackage{tikz,pgf,wrapfig, circuitikz}
+\usepackage{tkz-euclide}
+\usepackage{amsmath, amssymb}
+\numberwithin{figure}{section}
+\numberwithin{equation}{section}
+%\numberwithin{lstlisting}{section}
+
+\usepackage{cochineal}
+%\usepackage[cochineal]{newtxmath}
+\newcommand*{\freq}{\mathord{\mathit{f}}}  % Fancy 'f' for frequency
+\usepackage[linewidth=1pt]{mdframed}
+\usepackage{float}
+\usepackage[margin=1in]{caption}
+\usepackage[pdftex]{hyperref}
+\PassOptionsToPackage{hyphens}{url}\usepackage{hyperref}
+\usepackage{placeins}               % Conrol float placement
+\usepackage{enumerate}
+%\usepackage{fullpage}               % Set all margins to be 1 inch
+\usepackage[pdftex]{hyperref}
+%\usepackage{mathpazo}
+\usepackage{siunitx}
+\usepackage[final]{pdfpages}        % Used to insert PDFs
+\usepackage[english]{babel}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{physunits}
+\usepackage{booktabs, multirow} 
+\usepackage[version=4]{mhchem}
+\usepackage[super]{nth}
+\usepackage{tcolorbox}
+\usepackage{listings}
+\usepackage[framed]{matlab-prettifier}
+\usepackage{lmodern}
+\usepackage[scr]{rsfso}
+\usepackage{multimedia}
+\usepackage{attachfile}
+\usepackage{subcaption}
+
+\colorlet{mygray}{black!30}
+\colorlet{mygreen}{green!60!blue}
+\colorlet{mymauve}{red!60!blue}
+
+\lstset{
+  backgroundcolor=\color{gray!10},  
+  basicstyle=\ttfamily,
+  columns=fullflexible,
+  breakatwhitespace=false,      
+  breaklines=true,                
+  captionpos=b,                    
+  commentstyle=\color{mygreen}, 
+  extendedchars=true,              
+  frame=single,                   
+  keepspaces=true,             
+  keywordstyle=\color{blue},      
+  language=c,                 
+  numbers=none,                
+  numbersep=5pt,                   
+  numberstyle=\tiny\color{blue}, 
+  rulecolor=\color{mygray},        
+  showspaces=false,               
+  showtabs=false,                 
+  stepnumber=5,                  
+  stringstyle=\color{mymauve},    
+  tabsize=3,                      
+  title=\lstname                
+}
+
+\DeclareSIUnit \vrms {\ensuremath{\mathrm{V_{rms}}}}
+\DeclareSIUnit \vpp {\ensuremath{\mathrm{V_{pp}}}}
+
+%Make new command for specifying source: 
+\newcommand{\source}[1]{\caption*{Source: {#1}}}
+
+%Laplace L symbol 
+\newcommand{\Laplace}{\mathscr{L}}
+
+% Set spacing for the header so body text doesn't overlap
+\setlength{\headheight}{30pt}
+\setlength{\headsep}{.25in}
+
+\DeclareMathOperator{\sinc}{sinc}
+
+%-----------------------------------------------------
+%               Header and Footer information
+% \pagestyle{fancy}
+% \fancyhf{}
+% \rhead{\today} 
+% \lhead{Wagner, Douglas \\ EECE 301} 
+% \chead{Homework 4}
+% \rfoot{Page \thepage \hspace{1pt} of \pageref{LastPage} }
+%-----------------------------------------------------
+
+\usetikzlibrary{calc}
+\graphicspath{{images/}}
+
+\pgfplotsset{compat=1.16}
+\tikzset{
+	jumpdot/.style={mark=*, solid},
+	excl/.append style={jumpdot, fill=white},
+	incl/.append style={jumpdot, fill=black}
+} 
+%----------------------------------------------------
+%            Title page information
+
+\title{Final Project Report \\ EECE 458 Embedded Systems}
+\author{\\ Doug Wagner}
+\date{Submitted: \today }
+%----------------------------------------------------
+
+\pagenumbering{arabic} 
+
+% Command for larger nested fractions
+\newcommand\ddfrac[2]{\frac{\displaystyle #1}{\displaystyle #2}} 
+
+\begin{document}
+
+\maketitle 
+\newpage
+
+\tableofcontents 
+\newpage 
+
+\section{Executive Summary}
+
+This finaly project implements a programmable power supply with current monitoring and short-circuit protection.  It is based around the TPS55289 part from Texas Instruments, which is an I2C-programmable power IC.  
+
+The design uses three pushbuttons and an LCD for the user interface, where the user can enable and disable the power supply, as well as step up and down the output voltage in \SI{100}{\milli\volt} increments.  The LCD displays the set voltage, the state of the device (on, off, or shorted), as well as the monitored current. Current is measured using a MAX4376 current sense amplifier and a sense resistor on the output of the power supply. The analog output is fed into the ADC of the Pico, where it is read, scaled, then displayed as the monitored current in \si{\milli\ampere} on the LCD.
+
+A crude version of short-circuit protection is implemented via an interrupt on GPIO11 of the Pico: the pin is connected to the output of the MAX4376 and triggers a LEVEL\_HIGH IRQ once the output voltage passes \SI{1}{\volt}, which puts the device in to the SHORT state, and an error message is displayed on the LCD.  To clear the error, the user presses the enable pushbutton, and the device resumes operation.
+
+\section{Detailed Design} 
+\subsection{Application Level Design}
+
+
+\section{Project Requirements} 
+\begin{itemize} 
+    \item Device must be battery operated, with DC input voltages of \SI{7.2}{\volt} - \SI{9}{\volt}, from which all other needed voltages must be derived. 
+    \item Coils should be implemented with magnetic wire, and their characteristic impedance and resistance should be determined.
+    \item The design must use the Basys board as the main controller.
+    \item When a metal object is detected, an indication on the board display should be made corresponding to a position of center, left, or right.  The total number of objects detected, as well as the number of objects detected in each position, should be displayed. A strength meter should be implemented that indicates the strenght of the current signal, and should span over the whole range of the detection signal.
+    \item Electronics or the Basys board must be used to generate any needed waveforms. 
+    \item Standard electronic components must be used, such as standard resistor and capacitor values.
+    \item Datasheets should be used to determine specific device parameters. 
+    \item All parts of the system should be designed for safety, including in the event of failure.  Do not use lithium-based batteries.
+    \item The design must be demonstrated in the lab.
+    \item An electrical stress analysis must be performed on the device.
+\end{itemize}
+\section{Block Diagram} 
+\begin{figure}[ht] 
+    \centering
+    \includegraphics[width=\linewidth]{images/analog_block.png}
+    \caption{Electronics block diagram showing flow from battery voltage input to Basys board}
+\end{figure} 
+
+\subsection{Signal Conditioning} 
+
+\section{Design Integration} 
+
+\section{Design Verification} 
+
+
+\section{Bill of Materials}
+
+\section{Source Code}
+    %\lstinputlisting[language=C]{docs/code.c}
+\section{Schematic} 
+
+\section{Datasheets}
+The following datasheets were used as references wherever component parameters were needed: 
+
+\begin{itemize} 
+    \item Power supply ceramic capacitors: \url{https://www.vishay.com/doc?45171} 
+    \item Tank circuit film capacitors: \url{https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/ABD0000C180.pdf}
+    \item Resistors: \url{https://media.digikey.com/pdf/Data%20Sheets/Lumimax%20Optoelectronic%20Tech%20PDFs/CF%20Series.pdf}
+    \item 2N3904: \url{https://rocelec.widen.net/view/pdf/0kyoyfnmcq/ONSMS24978-1.pdf?t.download=true&u=5oefqw} 
+    \item LM7805CV: \url{https://www.mouser.com/datasheet/2/389/l78-1849632.pdf}
+    \item Basys 3: \url{https://digilent.com/reference/_media/basys3:basys3_rm.pdf}
+\end{itemize}
+\end{document}
+
+

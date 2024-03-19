@@ -1,0 +1,297 @@
+2024-02-06 17:07:56.529 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:07:56.540 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:07:56.555 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:07:56.560 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:07:56.607 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-02-06 17:07:56.613 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:07:56.624 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:07:56.671 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:07:56.837 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:07:56.869 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:07:56.897 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:07:56.931 [info] Deleted uninstalled extension from disk monokai.theme-monokai-pro-vscode /home/dwagn/.vscode/extensions/monokai.theme-monokai-pro-vscode-1.2.1
+2024-02-06 17:07:57.474 [info] Deleted uninstalled extension from disk jdinhlife.gruvbox /home/dwagn/.vscode/extensions/jdinhlife.gruvbox-1.17.0
+2024-02-06 17:07:57.474 [info] Deleted uninstalled extension from disk vscodevim.vim /home/dwagn/.vscode/extensions/vscodevim.vim-1.27.1
+2024-02-06 17:07:57.474 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/monokai.theme-monokai-pro-vscode-1.2.1.2b81ff1b.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/monokai.theme-monokai-pro-vscode-1.2.1.2b81ff1b.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-06 17:07:57.475 [info] Deleted uninstalled extension from disk yzhang.markdown-all-in-one /home/dwagn/.vscode/extensions/yzhang.markdown-all-in-one-3.5.1
+2024-02-06 17:07:57.475 [info] Deleted uninstalled extension from disk platformio.platformio-ide /home/dwagn/.vscode/extensions/platformio.platformio-ide-3.3.1-linux-x64
+2024-02-06 17:07:57.475 [info] Deleted uninstalled extension from disk james-yu.latex-workshop /home/dwagn/.vscode/extensions/james-yu.latex-workshop-9.16.0
+2024-02-06 17:07:57.475 [info] Deleted uninstalled extension from disk ms-vsliveshare.vsliveshare /home/dwagn/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5900
+2024-02-06 17:07:57.508 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:07:57.595 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:07:57.672 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:07:57.756 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:07:57.836 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:07:58.483 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:07:58.608 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:07:58.612 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:07:59.281 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:00.456 [info] Getting Manifest... eamodio.gitlens
+2024-02-06 17:08:00.457 [info] Getting Manifest... joedevivo.vscode-circuitpython
+2024-02-06 17:08:00.459 [info] Getting Manifest... ms-python.python
+2024-02-06 17:08:00.460 [info] Getting Manifest... ms-vscode-remote.remote-ssh
+2024-02-06 17:08:00.460 [info] Getting Manifest... ms-vscode-remote.remote-wsl
+2024-02-06 17:08:00.463 [info] Getting Manifest... ms-vscode.hexeditor
+2024-02-06 17:08:00.464 [info] Getting Manifest... platformio.platformio-ide
+2024-02-06 17:08:00.465 [info] Getting Manifest... yzhang.markdown-all-in-one
+2024-02-06 17:08:00.475 [info] Installing extension: joedevivo.vscode-circuitpython
+2024-02-06 17:08:00.505 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:00.517 [info] Installing extension: ms-vscode-remote.remote-wsl
+2024-02-06 17:08:00.518 [info] Installing extension: ms-python.python
+2024-02-06 17:08:00.528 [info] Installing extension: ms-vscode-remote.remote-ssh
+2024-02-06 17:08:00.544 [info] Installing extension: ms-vscode.hexeditor
+2024-02-06 17:08:00.556 [info] Installing extension: platformio.platformio-ide
+2024-02-06 17:08:00.557 [info] Installing extension: yzhang.markdown-all-in-one
+2024-02-06 17:08:00.616 [info] Installing extension: eamodio.gitlens
+2024-02-06 17:08:00.642 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:00.694 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:00.745 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:00.800 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:00.831 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:00.859 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:00.895 [info] Getting Manifest... ms-python.python
+2024-02-06 17:08:00.907 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:00.944 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:01.009 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:01.049 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:01.092 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:01.142 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:01.190 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:01.195 [info] Getting Manifest... ms-python.debugpy
+2024-02-06 17:08:01.237 [info] Getting Manifest... ms-python.debugpy
+2024-02-06 17:08:01.282 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:01.365 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:01.432 [info] Getting Manifest... ms-vscode.cpptools
+2024-02-06 17:08:01.509 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:01.542 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:01.580 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:01.581 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:01.584 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:01.587 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:01.590 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:01.716 [info] Installing extension: ms-python.debugpy ms-python.python
+2024-02-06 17:08:01.722 [info] Waiting for already requested installing extension ms-python.python joedevivo.vscode-circuitpython
+2024-02-06 17:08:01.723 [info] Waiting for already requested installing extension ms-python.debugpy joedevivo.vscode-circuitpython
+2024-02-06 17:08:01.770 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:01.846 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:01.863 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:01.941 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:01.990 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode-remote.remote-wsl
+2024-02-06 17:08:01.992 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode-remote.remote-ssh
+2024-02-06 17:08:02.016 [warning] Extension signature verification failed with error 'UnknownError': joedevivo.vscode-circuitpython
+2024-02-06 17:08:02.022 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.hexeditor
+2024-02-06 17:08:02.139 [info] Extracted extension to file:///home/dwagn/.vscode/extensions/ms-vscode.hexeditor-1.9.13: ms-vscode.hexeditor
+2024-02-06 17:08:02.143 [info] Renamed to /home/dwagn/.vscode/extensions/ms-vscode.hexeditor-1.9.13
+2024-02-06 17:08:02.146 [info] Extracting extension completed. ms-vscode.hexeditor
+2024-02-06 17:08:02.155 [info] Extension installed successfully: ms-vscode.hexeditor
+2024-02-06 17:08:02.160 [info] Marked extension as uninstalled ms-vscode.hexeditor-1.9.12
+2024-02-06 17:08:02.162 [info] Extracted extension to file:///home/dwagn/.vscode/extensions/ms-vscode-remote.remote-ssh-0.108.0: ms-vscode-remote.remote-ssh
+2024-02-06 17:08:02.164 [info] Renamed to /home/dwagn/.vscode/extensions/ms-vscode-remote.remote-ssh-0.108.0
+2024-02-06 17:08:02.167 [info] Extracting extension completed. ms-vscode-remote.remote-ssh
+2024-02-06 17:08:02.176 [info] Extension installed successfully: ms-vscode-remote.remote-ssh
+2024-02-06 17:08:02.179 [info] Marked extension as uninstalled ms-vscode-remote.remote-ssh-0.107.1
+2024-02-06 17:08:02.187 [info] Extracted extension to file:///home/dwagn/.vscode/extensions/ms-vscode-remote.remote-wsl-0.86.0: ms-vscode-remote.remote-wsl
+2024-02-06 17:08:02.190 [info] Renamed to /home/dwagn/.vscode/extensions/ms-vscode-remote.remote-wsl-0.86.0
+2024-02-06 17:08:02.196 [info] Extracting extension completed. ms-vscode-remote.remote-wsl
+2024-02-06 17:08:02.198 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-06 17:08:02.205 [info] Extension installed successfully: ms-vscode-remote.remote-wsl
+2024-02-06 17:08:02.208 [info] Marked extension as uninstalled ms-vscode-remote.remote-wsl-0.81.8
+2024-02-06 17:08:02.252 [warning] Extension signature verification failed with error 'UnknownError': yzhang.markdown-all-in-one
+2024-02-06 17:08:02.303 [info] Extracted extension to file:///home/dwagn/.vscode/extensions/yzhang.markdown-all-in-one-3.6.2: yzhang.markdown-all-in-one
+2024-02-06 17:08:02.307 [info] Renamed to /home/dwagn/.vscode/extensions/yzhang.markdown-all-in-one-3.6.2
+2024-02-06 17:08:02.309 [info] Extracting extension completed. yzhang.markdown-all-in-one
+2024-02-06 17:08:02.317 [info] Extension installed successfully: yzhang.markdown-all-in-one
+2024-02-06 17:08:02.320 [info] Marked extension as uninstalled yzhang.markdown-all-in-one-3.6.1
+2024-02-06 17:08:02.764 [warning] Extension signature verification failed with error 'UnknownError': platformio.platformio-ide
+2024-02-06 17:08:03.449 [warning] Extension signature verification failed with error 'UnknownError': ms-python.debugpy
+2024-02-06 17:08:03.450 [warning] Extension signature verification failed with error 'UnknownError': eamodio.gitlens
+2024-02-06 17:08:03.549 [info] Extracted extension to file:///home/dwagn/.vscode/extensions/platformio.platformio-ide-3.3.3-linux-x64: platformio.platformio-ide
+2024-02-06 17:08:03.553 [info] Renamed to /home/dwagn/.vscode/extensions/platformio.platformio-ide-3.3.3-linux-x64
+2024-02-06 17:08:03.554 [info] Extracting extension completed. platformio.platformio-ide
+2024-02-06 17:08:03.561 [info] Extension installed successfully: platformio.platformio-ide
+2024-02-06 17:08:03.564 [info] Marked extension as uninstalled platformio.platformio-ide-3.3.2-linux-x64
+2024-02-06 17:08:03.627 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-06 17:08:03.840 [info] Extracted extension to file:///home/dwagn/.vscode/extensions/eamodio.gitlens-14.7.0: eamodio.gitlens
+2024-02-06 17:08:03.851 [info] Renamed to /home/dwagn/.vscode/extensions/eamodio.gitlens-14.7.0
+2024-02-06 17:08:03.857 [info] Extracting extension completed. eamodio.gitlens
+2024-02-06 17:08:03.868 [info] Extension installed successfully: eamodio.gitlens
+2024-02-06 17:08:03.881 [info] Marked extension as uninstalled eamodio.gitlens-14.6.1
+2024-02-06 17:08:03.936 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-06 17:08:04.054 [info] Extracted extension to file:///home/dwagn/.vscode/extensions/ms-python.debugpy-2024.0.0-linux-x64: ms-python.debugpy
+2024-02-06 17:08:04.057 [info] Renamed to /home/dwagn/.vscode/extensions/ms-python.debugpy-2024.0.0-linux-x64
+2024-02-06 17:08:04.059 [info] Extracting extension completed. ms-python.debugpy
+2024-02-06 17:08:04.102 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:04.138 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-06 17:08:04.256 [info] Extracted extension to file:///home/dwagn/.vscode/extensions/joedevivo.vscode-circuitpython-0.2.0-linux-x64: joedevivo.vscode-circuitpython
+2024-02-06 17:08:04.259 [info] Renamed to /home/dwagn/.vscode/extensions/joedevivo.vscode-circuitpython-0.2.0-linux-x64
+2024-02-06 17:08:04.260 [info] Extracting extension completed. joedevivo.vscode-circuitpython
+2024-02-06 17:08:04.266 [info] Marked extension as uninstalled joedevivo.vscode-circuitpython-0.1.20-linux-x64
+2024-02-06 17:08:04.341 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-06 17:08:06.522 [warning] Extension signature verification failed with error 'UnknownError': ms-python.python
+2024-02-06 17:08:08.012 [info] Extracted extension to file:///home/dwagn/.vscode/extensions/ms-python.python-2024.0.1: ms-python.python
+2024-02-06 17:08:08.017 [info] Renamed to /home/dwagn/.vscode/extensions/ms-python.python-2024.0.1
+2024-02-06 17:08:08.020 [info] Extracting extension completed. ms-python.python
+2024-02-06 17:08:08.027 [info] Extension installed successfully: ms-python.debugpy
+2024-02-06 17:08:08.027 [info] Extension installed successfully: ms-python.python
+2024-02-06 17:08:08.027 [info] Finished waiting for already requested installing extension ms-python.python joedevivo.vscode-circuitpython
+2024-02-06 17:08:08.027 [info] Finished waiting for already requested installing extension ms-python.debugpy joedevivo.vscode-circuitpython
+2024-02-06 17:08:08.028 [info] Extension installed successfully: joedevivo.vscode-circuitpython
+2024-02-06 17:08:08.031 [info] Marked extension as uninstalled ms-python.python-2023.22.1
+2024-02-06 17:08:08.100 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-06 17:08:12.003 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:12.046 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:12.079 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:12.224 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:12.243 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:12.270 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:12.378 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:12.475 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-02-06 17:08:12.476 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:12.587 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:12.593 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:12.656 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:12.829 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:12.908 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:14.443 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:14.523 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:08:14.533 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:09:26.821 [info] Getting Manifest... bmd.stm32-for-vscode
+2024-02-06 17:09:26.829 [info] Installing extension: bmd.stm32-for-vscode
+2024-02-06 17:09:26.896 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:09:27.013 [info] Getting Manifest... marus25.cortex-debug
+2024-02-06 17:09:27.121 [info] Getting Manifest... mcu-debug.debug-tracker-vscode
+2024-02-06 17:09:27.162 [info] Getting Manifest... mcu-debug.memory-view
+2024-02-06 17:09:27.179 [info] Getting Manifest... mcu-debug.rtos-views
+2024-02-06 17:09:27.199 [info] Getting Manifest... mcu-debug.peripheral-viewer
+2024-02-06 17:09:27.294 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:09:27.314 [info] Installing extension: marus25.cortex-debug bmd.stm32-for-vscode
+2024-02-06 17:09:27.314 [info] Installing extension: mcu-debug.debug-tracker-vscode bmd.stm32-for-vscode
+2024-02-06 17:09:27.314 [info] Installing extension: mcu-debug.memory-view bmd.stm32-for-vscode
+2024-02-06 17:09:27.314 [info] Installing extension: mcu-debug.rtos-views bmd.stm32-for-vscode
+2024-02-06 17:09:27.314 [info] Installing extension: mcu-debug.peripheral-viewer bmd.stm32-for-vscode
+2024-02-06 17:09:27.400 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:09:27.405 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:09:27.622 [warning] Extension signature verification failed with error 'UnknownError': mcu-debug.debug-tracker-vscode
+2024-02-06 17:09:27.633 [info] Extracted extension to file:///home/dwagn/.vscode/extensions/mcu-debug.debug-tracker-vscode-0.0.15: mcu-debug.debug-tracker-vscode
+2024-02-06 17:09:27.636 [info] Renamed to /home/dwagn/.vscode/extensions/mcu-debug.debug-tracker-vscode-0.0.15
+2024-02-06 17:09:27.638 [info] Extracting extension completed. mcu-debug.debug-tracker-vscode
+2024-02-06 17:09:27.651 [warning] Extension signature verification failed with error 'UnknownError': mcu-debug.peripheral-viewer
+2024-02-06 17:09:27.678 [info] Extracted extension to file:///home/dwagn/.vscode/extensions/mcu-debug.peripheral-viewer-1.4.6: mcu-debug.peripheral-viewer
+2024-02-06 17:09:27.680 [info] Renamed to /home/dwagn/.vscode/extensions/mcu-debug.peripheral-viewer-1.4.6
+2024-02-06 17:09:27.681 [info] Extracting extension completed. mcu-debug.peripheral-viewer
+2024-02-06 17:09:27.770 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-06 17:09:27.793 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:09:27.797 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:09:28.094 [warning] Extension signature verification failed with error 'UnknownError': mcu-debug.rtos-views
+2024-02-06 17:09:28.097 [warning] Extension signature verification failed with error 'UnknownError': mcu-debug.memory-view
+2024-02-06 17:09:28.151 [info] Extracted extension to file:///home/dwagn/.vscode/extensions/mcu-debug.memory-view-0.0.25: mcu-debug.memory-view
+2024-02-06 17:09:28.153 [info] Renamed to /home/dwagn/.vscode/extensions/mcu-debug.memory-view-0.0.25
+2024-02-06 17:09:28.155 [info] Extracting extension completed. mcu-debug.memory-view
+2024-02-06 17:09:28.180 [info] Extracted extension to file:///home/dwagn/.vscode/extensions/mcu-debug.rtos-views-0.0.7: mcu-debug.rtos-views
+2024-02-06 17:09:28.181 [info] Renamed to /home/dwagn/.vscode/extensions/mcu-debug.rtos-views-0.0.7
+2024-02-06 17:09:28.182 [info] Extracting extension completed. mcu-debug.rtos-views
+2024-02-06 17:09:28.239 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:09:28.243 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-06 17:09:29.084 [warning] Extension signature verification failed with error 'UnknownError': marus25.cortex-debug
+2024-02-06 17:09:29.169 [info] Extracted extension to file:///home/dwagn/.vscode/extensions/marus25.cortex-debug-1.12.1: marus25.cortex-debug
+2024-02-06 17:09:29.173 [info] Renamed to /home/dwagn/.vscode/extensions/marus25.cortex-debug-1.12.1
+2024-02-06 17:09:29.174 [info] Extracting extension completed. marus25.cortex-debug
+2024-02-06 17:09:29.221 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-02-06 17:09:29.255 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-06 17:09:29.739 [warning] Extension signature verification failed with error 'UnknownError': bmd.stm32-for-vscode
+2024-02-06 17:09:29.827 [info] Extracted extension to file:///home/dwagn/.vscode/extensions/bmd.stm32-for-vscode-3.2.6: bmd.stm32-for-vscode
+2024-02-06 17:09:29.830 [info] Renamed to /home/dwagn/.vscode/extensions/bmd.stm32-for-vscode-3.2.6
+2024-02-06 17:09:29.858 [info] Extracting extension completed. bmd.stm32-for-vscode
+2024-02-06 17:09:29.866 [info] Extension installed successfully: mcu-debug.debug-tracker-vscode
+2024-02-06 17:09:29.866 [info] Extension installed successfully: mcu-debug.peripheral-viewer
+2024-02-06 17:09:29.866 [info] Extension installed successfully: mcu-debug.memory-view
+2024-02-06 17:09:29.866 [info] Extension installed successfully: mcu-debug.rtos-views
+2024-02-06 17:09:29.866 [info] Extension installed successfully: marus25.cortex-debug
+2024-02-06 17:09:29.867 [info] Extension installed successfully: bmd.stm32-for-vscode
+2024-02-06 17:09:29.939 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dwagn/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
