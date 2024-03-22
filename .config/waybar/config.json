@@ -20,7 +20,6 @@
         "memory",
         "cpu",
         "network",
-        "hyprland/language",
         "custom/brightness",
         "custom/hyprshade",
         "pulseaudio",
@@ -61,8 +60,8 @@
         "format": "{icon} {name}",
         "on-click": "activate",
         "format-icons": {
-            "active": "󰮯",
-            "default": "󰊠"
+            "active": "",
+            "default": ""
         },
         "all-outputs": true,
         "sort-by-number": true,
@@ -219,7 +218,7 @@
     },
     "wlr/taskbar": {
         "format": "{icon}",
-        "icon-size": 28,
+        "icon-size": 22,
         "all-outputs": true,
         "tooltip-format": "{title}",
         "on-click": "activate",

@@ -1,11 +1,5 @@
 return {
   {
-    "LazyVim/LazyVim",
-    opts = {
-      colorscheme = "monokai-pro-spectrum",
-    },
-  },
-  {
     "max397574/better-escape.nvim",
     config = function()
       require("better_escape").setup({

@@ -6,7 +6,7 @@ return {
       view = "cmdline",
     },
     popupmenu = {
-      enabled = true,
+      enabled = false,
     },
     views = {
       popupmenu = {

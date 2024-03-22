@@ -6,7 +6,7 @@ exec-once = xhost +SI:localuser:root
 ## Set GTK Themes, Icons, Cursor and Fonts
 THEME='Breeze-Dark'
 ICONS='Papirus-Dark'
-FONT='Ubuntu Semi-Bold 11'
+FONT='SF Pro Display Regular 11'
 CURSOR='Adwaita'
 
 SCHEMA='gsettings set org.gnome.desktop.interface'
