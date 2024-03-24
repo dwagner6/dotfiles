@@ -2,7 +2,7 @@
 
 export PATH="${PATH}:${HOME}/.local/bin/"
 
-swww init
+swww-daemon --format xrgb
 
 if [ -e "${HOME}/.cache/wal/colors" ]; then
 	wal -R
