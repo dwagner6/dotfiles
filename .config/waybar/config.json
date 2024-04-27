@@ -1,8 +1,8 @@
 {
 		"layer": "top",
-		"modules-left": ["hyprland/workspaces", "temperature", "tray"],
+		"modules-left": ["hyprland/workspaces",  "tray"],
 		"modules-center": ["hyprland/window"], 
-		"modules-right": ["custom/subs", "cpu", "memory", "idle_inhibitor", "clock", "pulseaudio", "bluetooth"],
+		"modules-right": ["cpu",  "idle_inhibitor", "clock", "network", "pulseaudio", "bluetooth"],
 
   "hyprland/window": {
 	    "format": "{title}",
@@ -10,7 +10,7 @@
 	    "seperate-outputs": true
   },
   "clock": {
-	"format": "<span foreground='#8ec07c'> </span><span>{:%I:%M %a %d}</span>",
+	"format": "<span foreground='#8ec07c'>  </span><span>{:%I:%M %a %d}</span>",
 	"tooltip-format": "{calendar}",
 	  "calendar": {
 		"mode"          : "month",
@@ -78,8 +78,7 @@
  },
    "network": {
 		  "format": "󰤭 Off",
-		  "format-wifi": "{essid} ({signalStrength}%)",
-		  "format-ethernet": "<span foreground='#b48ead'>󰈀</span>",
+      "format-wifi": "   {signalStrength}%",
 		  "format-disconnected": "󰤭 Disconnected",
 		  "tooltip-format": "{ifname} via {gwaddr} ",
 		  "tooltip-format-wifi": "{essid}({signalStrength}%)  ",
@@ -130,11 +129,6 @@
      }
  },
 
- "custom/subs": {
-	"format": "<span foreground='#fbf1c7'>󰗃 </span> {}",
-    "exec": "/usr/local/bin/subsfile.sh",
-    "on-click": "vivaldi-stable https://youtube.com/thelinuxcast",
-    "restart-interval": 1,
 },
   "bluetooth": {
 		  "on-click": "./scripts/bluetooth-control",

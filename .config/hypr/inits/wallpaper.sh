@@ -26,5 +26,3 @@ else
 
 	echo "Successfully set a new wallpaper and generated colors from it."
 fi
-
-pywalfox update
