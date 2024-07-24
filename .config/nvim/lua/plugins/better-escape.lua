@@ -2,10 +2,48 @@ return {
   "max397574/better-escape.nvim",
   config = function()
     require("better_escape").setup({
-      mapping = { "jk", "jj" }, -- a table with mappings to use
       timeout = vim.o.timeoutlen,
-      clear_empty_lines = false,
-      keys = "<Esc>",
+      default_mappings = true,
+      mappings = {
+        i = {
+          j = {
+            -- These can all also be functions
+            k = "<Esc>",
+            j = "<Esc>",
+          },
+        },
+        c = {
+          j = {
+            k = "<Esc>",
+            j = "<Esc>",
+          },
+        },
+        t = {
+          j = {
+            k = "<Esc>",
+            j = "<Esc>",
+          },
+        },
+        v = {
+          j = {
+            k = "<Esc>",
+          },
+        },
+        s = {
+          j = {
+            k = "<Esc>",
+          },
+        },
+      },
     })
+  end,
+  k = function()
+    vim.api.nvim_input("<esc>")
+    local current_line = vim.api.nvim_get_current_line()
+    if current_line:match("^%s+j$") then
+      vim.schedule(function()
+        vim.api.nvim_set_current_line("")
+      end)
+    end
   end,
 }
