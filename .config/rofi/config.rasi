@@ -1,0 +1,125 @@
+  * {
+        bg: #2a2a2a;
+        background-color: @bg;
+    }
+
+    configuration {
+	    show-icons: true;
+	    icon-theme: "Papirus";
+	    location: 0;
+	    font: "JetBrainsMono Nerd Font 12";	
+	    display-drun: "Launch:";
+    }
+
+    window { 
+	    width: 35%;
+	    transparency: "real";
+	    orientation: vertical;
+	    border-color: #FF8F40;
+        border-radius: 10px;
+    }
+
+    mainbox {
+	    children: [inputbar, listview];
+    }
+
+
+    // ELEMENT
+    // -----------------------------------
+
+    element {
+	    padding: 4 12;
+	    text-color: #2a2a2a;
+        border-radius: 5px;
+    }
+
+    element selected {
+	    text-color: #ffffff;
+	    background-color: #ffb454;
+    }
+
+    element-text {
+	    background-color: inherit;
+	    text-color: inherit;
+    }
+
+    element-icon {
+	    size: 16 px;
+	    background-color: inherit;
+	    padding: 0 6 0 0;
+	    alignment: vertical;
+    }
+
+	element.selected.active {
+		background-color: #2a2a2a;
+		text-color: #bfbdb6;
+	}
+ 
+	element.alternate.normal {
+		background-color: #2a2a2a;
+		text-color: #bfbdb6;
+	}
+
+ 
+	element.alternate.active {
+		background-color: #ff8f40;
+		text-color: #bfbdb6;
+	}
+
+	element.selected.normal {
+		background-color: #ff8f40;
+		text-color: #2a2a2a;
+	}
+ 
+
+	element.normal.active {
+		background-color: #2a2a2a;
+		text-color: #bfbdb6;
+	}
+ 
+
+	element.normal.normal {
+		background-color: #2a2a2a;
+		text-color: #bfbdb6;
+	}
+ 
+	element.normal.urgent {
+		background-color: #f25d78;
+		text-color: #2a2a2a;
+	}
+
+	
+
+    listview {
+	    columns: 2;
+	    lines: 9;
+	    padding: 8 0;
+	    fixed-height: true;
+	    fixed-columns: true;
+	    fixed-lines: true;
+	    border: 0 10 6 10;
+    }
+
+    // INPUT BAR 
+    //------------------------------------------------
+
+    entry {
+	    text-color: #f27893;
+	    padding: 10 10 0 0;
+	    margin: 0 -2 0 0;
+    }
+
+    inputbar {
+	    //background-image: url("~/.config/rofi/rofi.png", width);
+	    //padding: 180 0 0;
+      padding: 0 0 0;
+	    margin: 0 0 0 0;
+    } 
+
+    prompt {
+	    text-color: #d2a6ff;
+	    padding: 10 6 0 10;
+	    margin: 0 -2 0 0;
+    }
+
+
