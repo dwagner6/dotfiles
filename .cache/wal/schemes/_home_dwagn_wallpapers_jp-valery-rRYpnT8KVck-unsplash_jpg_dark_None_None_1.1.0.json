@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/dwagn/wallpapers/jp-valery-rRYpnT8KVck-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090D09",
+        "foreground": "#f2cd77",
+        "cursor": "#f2cd77"
+    },
+    "colors": {
+        "color0": "#090D09",
+        "color1": "#A35D01",
+        "color2": "#9B6405",
+        "color3": "#B46C01",
+        "color4": "#C57A01",
+        "color5": "#D58A01",
+        "color6": "#E59A01",
+        "color7": "#f2cd77",
+        "color8": "#a98f53",
+        "color9": "#A35D01",
+        "color10": "#9B6405",
+        "color11": "#B46C01",
+        "color12": "#C57A01",
+        "color13": "#D58A01",
+        "color14": "#E59A01",
+        "color15": "#f2cd77"
+    }
+}

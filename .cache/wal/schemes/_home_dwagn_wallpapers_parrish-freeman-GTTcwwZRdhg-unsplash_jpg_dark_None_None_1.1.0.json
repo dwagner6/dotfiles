@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/dwagn/wallpapers/parrish-freeman-GTTcwwZRdhg-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#181412",
+        "foreground": "#dededf",
+        "cursor": "#dededf"
+    },
+    "colors": {
+        "color0": "#181412",
+        "color1": "#C59C71",
+        "color2": "#7C7F88",
+        "color3": "#A9A09C",
+        "color4": "#C8B5A6",
+        "color5": "#D2C4B8",
+        "color6": "#BABEC5",
+        "color7": "#dededf",
+        "color8": "#9b9b9c",
+        "color9": "#C59C71",
+        "color10": "#7C7F88",
+        "color11": "#A9A09C",
+        "color12": "#C8B5A6",
+        "color13": "#D2C4B8",
+        "color14": "#BABEC5",
+        "color15": "#dededf"
+    }
+}

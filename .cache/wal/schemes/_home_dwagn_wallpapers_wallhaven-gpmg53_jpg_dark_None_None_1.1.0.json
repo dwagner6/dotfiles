@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/dwagn/wallpapers/wallhaven-gpmg53.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B100A",
+        "foreground": "#dfe0de",
+        "cursor": "#dfe0de"
+    },
+    "colors": {
+        "color0": "#0B100A",
+        "color1": "#B0AE4D",
+        "color2": "#959663",
+        "color3": "#7A8C87",
+        "color4": "#939F98",
+        "color5": "#B3B5B1",
+        "color6": "#C0C3BC",
+        "color7": "#dfe0de",
+        "color8": "#9c9c9b",
+        "color9": "#B0AE4D",
+        "color10": "#959663",
+        "color11": "#7A8C87",
+        "color12": "#939F98",
+        "color13": "#B3B5B1",
+        "color14": "#C0C3BC",
+        "color15": "#dfe0de"
+    }
+}

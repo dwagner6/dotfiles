@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/dwagn/wallpapers/wallhaven-483rxo.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020202",
+        "foreground": "#a1a1a1",
+        "cursor": "#a1a1a1"
+    },
+    "colors": {
+        "color0": "#020202",
+        "color1": "#242424",
+        "color2": "#2B2B2B",
+        "color3": "#333333",
+        "color4": "#3B3B3B",
+        "color5": "#434343",
+        "color6": "#4B4B4B",
+        "color7": "#a1a1a1",
+        "color8": "#707070",
+        "color9": "#242424",
+        "color10": "#2B2B2B",
+        "color11": "#333333",
+        "color12": "#3B3B3B",
+        "color13": "#434343",
+        "color14": "#4B4B4B",
+        "color15": "#a1a1a1"
+    }
+}

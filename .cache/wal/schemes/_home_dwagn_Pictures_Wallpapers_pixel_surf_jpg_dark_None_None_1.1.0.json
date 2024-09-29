@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/dwagn/Pictures/Wallpapers/pixel_surf.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000001",
+        "foreground": "#b7aec5",
+        "cursor": "#b7aec5"
+    },
+    "colors": {
+        "color0": "#000001",
+        "color1": "#504C67",
+        "color2": "#3067A2",
+        "color3": "#585986",
+        "color4": "#695885",
+        "color5": "#726B97",
+        "color6": "#616EA1",
+        "color7": "#b7aec5",
+        "color8": "#807989",
+        "color9": "#504C67",
+        "color10": "#3067A2",
+        "color11": "#585986",
+        "color12": "#695885",
+        "color13": "#726B97",
+        "color14": "#616EA1",
+        "color15": "#b7aec5"
+    }
+}

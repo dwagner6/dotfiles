@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/dwagn/wallpapers/wallhaven-96gqz8.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#08192E",
+        "foreground": "#d5c7bd",
+        "cursor": "#d5c7bd"
+    },
+    "colors": {
+        "color0": "#08192E",
+        "color1": "#646269",
+        "color2": "#976F66",
+        "color3": "#C46449",
+        "color4": "#CBA579",
+        "color5": "#F2A070",
+        "color6": "#7A7E84",
+        "color7": "#d5c7bd",
+        "color8": "#958b84",
+        "color9": "#646269",
+        "color10": "#976F66",
+        "color11": "#C46449",
+        "color12": "#CBA579",
+        "color13": "#F2A070",
+        "color14": "#7A7E84",
+        "color15": "#d5c7bd"
+    }
+}

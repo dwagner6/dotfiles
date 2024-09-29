@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/dwagn/wallpapers/bernd-dittrich-uPWLnq8zdf8-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#153911",
+        "foreground": "#dad8cc",
+        "cursor": "#dad8cc"
+    },
+    "colors": {
+        "color0": "#153911",
+        "color1": "#A8873A",
+        "color2": "#9D925E",
+        "color3": "#AB8F4C",
+        "color4": "#C3A671",
+        "color5": "#7C9082",
+        "color6": "#ADAD97",
+        "color7": "#dad8cc",
+        "color8": "#98978e",
+        "color9": "#A8873A",
+        "color10": "#9D925E",
+        "color11": "#AB8F4C",
+        "color12": "#C3A671",
+        "color13": "#7C9082",
+        "color14": "#ADAD97",
+        "color15": "#dad8cc"
+    }
+}

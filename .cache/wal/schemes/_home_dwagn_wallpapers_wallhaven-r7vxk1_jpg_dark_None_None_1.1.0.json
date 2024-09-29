@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/dwagn/wallpapers/wallhaven-r7vxk1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F0F12",
+        "foreground": "#d5d8df",
+        "cursor": "#d5d8df"
+    },
+    "colors": {
+        "color0": "#0F0F12",
+        "color1": "#7B8494",
+        "color2": "#939BAA",
+        "color3": "#A5ACBB",
+        "color4": "#9EADC0",
+        "color5": "#B0B8C7",
+        "color6": "#C0BFC5",
+        "color7": "#d5d8df",
+        "color8": "#95979c",
+        "color9": "#7B8494",
+        "color10": "#939BAA",
+        "color11": "#A5ACBB",
+        "color12": "#9EADC0",
+        "color13": "#B0B8C7",
+        "color14": "#C0BFC5",
+        "color15": "#d5d8df"
+    }
+}

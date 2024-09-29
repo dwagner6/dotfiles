@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/dwagn/Pictures/Wallpapers/moments_before_desk.png",
+    "alpha": "100",
+    "special": {
+        "background": "#090c0f",
+        "foreground": "#c8cfd1",
+        "cursor": "#c8cfd1"
+    },
+    "colors": {
+        "color0": "#090c0f",
+        "color1": "#3B4E65",
+        "color2": "#444D5B",
+        "color3": "#4A5465",
+        "color4": "#5B6B6F",
+        "color5": "#8B7576",
+        "color6": "#73AE90",
+        "color7": "#c8cfd1",
+        "color8": "#8c9092",
+        "color9": "#3B4E65",
+        "color10": "#444D5B",
+        "color11": "#4A5465",
+        "color12": "#5B6B6F",
+        "color13": "#8B7576",
+        "color14": "#73AE90",
+        "color15": "#c8cfd1"
+    }
+}

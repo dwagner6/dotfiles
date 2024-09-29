@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/dwagn/wallpapers/wallhaven-r225pw.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0809",
+        "foreground": "#ebc8aa",
+        "cursor": "#ebc8aa"
+    },
+    "colors": {
+        "color0": "#0A0809",
+        "color1": "#863E33",
+        "color2": "#8E5539",
+        "color3": "#AE6B49",
+        "color4": "#C57B52",
+        "color5": "#D18957",
+        "color6": "#D5A264",
+        "color7": "#ebc8aa",
+        "color8": "#a48c76",
+        "color9": "#863E33",
+        "color10": "#8E5539",
+        "color11": "#AE6B49",
+        "color12": "#C57B52",
+        "color13": "#D18957",
+        "color14": "#D5A264",
+        "color15": "#ebc8aa"
+    }
+}

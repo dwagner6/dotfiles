@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/dwagn/Pictures/Wallpapers/desert.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1c110d",
+        "foreground": "#d8a697",
+        "cursor": "#d8a697"
+    },
+    "colors": {
+        "color0": "#1c110d",
+        "color1": "#7C6D5C",
+        "color2": "#924F34",
+        "color3": "#DA603E",
+        "color4": "#925B44",
+        "color5": "#906B56",
+        "color6": "#AD664B",
+        "color7": "#d8a697",
+        "color8": "#977469",
+        "color9": "#7C6D5C",
+        "color10": "#924F34",
+        "color11": "#DA603E",
+        "color12": "#925B44",
+        "color13": "#906B56",
+        "color14": "#AD664B",
+        "color15": "#d8a697"
+    }
+}

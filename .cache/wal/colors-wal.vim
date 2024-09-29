@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/dwagn/wallpapers/0070.jpg"
+let background = "#061617"
+let foreground = "#caccd0"
+let cursor     = "#caccd0"
+
+" Colors
+let color0  = "#061617"
+let color1  = "#5C6867"
+let color2  = "#7C8470"
+let color3  = "#757D83"
+let color4  = "#7B8389"
+let color5  = "#8B9097"
+let color6  = "#9A9FA5"
+let color7  = "#caccd0"
+let color8  = "#8d8e91"
+let color9  = "#5C6867"
+let color10 = "#7C8470"
+let color11 = "#757D83"
+let color12 = "#7B8389"
+let color13 = "#8B9097"
+let color14 = "#9A9FA5"
+let color15 = "#caccd0"

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/dwagn/wallpapers/wallhaven-4vme93.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0709",
+        "foreground": "#ebebe0",
+        "cursor": "#ebebe0"
+    },
+    "colors": {
+        "color0": "#0d0709",
+        "color1": "#A5A798",
+        "color2": "#C8BCA2",
+        "color3": "#F2D39C",
+        "color4": "#CDCDB6",
+        "color5": "#D9D7C7",
+        "color6": "#E1DFCB",
+        "color7": "#ebebe0",
+        "color8": "#a4a49c",
+        "color9": "#A5A798",
+        "color10": "#C8BCA2",
+        "color11": "#F2D39C",
+        "color12": "#CDCDB6",
+        "color13": "#D9D7C7",
+        "color14": "#E1DFCB",
+        "color15": "#ebebe0"
+    }
+}

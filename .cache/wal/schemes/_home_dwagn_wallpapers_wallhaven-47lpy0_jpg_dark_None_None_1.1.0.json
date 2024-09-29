@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/dwagn/wallpapers/wallhaven-47lpy0.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#11151e",
+        "foreground": "#cdd1c2",
+        "cursor": "#cdd1c2"
+    },
+    "colors": {
+        "color0": "#11151e",
+        "color1": "#546B65",
+        "color2": "#758977",
+        "color3": "#84947D",
+        "color4": "#7C8F81",
+        "color5": "#8C9C86",
+        "color6": "#98A68C",
+        "color7": "#cdd1c2",
+        "color8": "#8f9287",
+        "color9": "#546B65",
+        "color10": "#758977",
+        "color11": "#84947D",
+        "color12": "#7C8F81",
+        "color13": "#8C9C86",
+        "color14": "#98A68C",
+        "color15": "#cdd1c2"
+    }
+}

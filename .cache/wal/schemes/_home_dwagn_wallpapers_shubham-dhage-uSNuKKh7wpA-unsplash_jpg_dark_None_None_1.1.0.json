@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/dwagn/wallpapers/shubham-dhage-uSNuKKh7wpA-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C3102",
+        "foreground": "#e1e8df",
+        "cursor": "#e1e8df"
+    },
+    "colors": {
+        "color0": "#0C3102",
+        "color1": "#9FB159",
+        "color2": "#BFCA63",
+        "color3": "#7F9E80",
+        "color4": "#ACBF96",
+        "color5": "#D9E1A2",
+        "color6": "#D1DECE",
+        "color7": "#e1e8df",
+        "color8": "#9da29c",
+        "color9": "#9FB159",
+        "color10": "#BFCA63",
+        "color11": "#7F9E80",
+        "color12": "#ACBF96",
+        "color13": "#D9E1A2",
+        "color14": "#D1DECE",
+        "color15": "#e1e8df"
+    }
+}

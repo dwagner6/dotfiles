@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/dwagn/wallpapers/0300.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0D04",
+        "foreground": "#dfdf96",
+        "cursor": "#dfdf96"
+    },
+    "colors": {
+        "color0": "#0A0D04",
+        "color1": "#3B6843",
+        "color2": "#437749",
+        "color3": "#8A701B",
+        "color4": "#67992F",
+        "color5": "#539252",
+        "color6": "#9B9925",
+        "color7": "#dfdf96",
+        "color8": "#9c9c69",
+        "color9": "#3B6843",
+        "color10": "#437749",
+        "color11": "#8A701B",
+        "color12": "#67992F",
+        "color13": "#539252",
+        "color14": "#9B9925",
+        "color15": "#dfdf96"
+    }
+}

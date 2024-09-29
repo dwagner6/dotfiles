@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/dwagn/Pictures/Wallpapers/samurai_strike.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1113",
+        "foreground": "#c4d3da",
+        "cursor": "#c4d3da"
+    },
+    "colors": {
+        "color0": "#0f1113",
+        "color1": "#376591",
+        "color2": "#4C7291",
+        "color3": "#55799B",
+        "color4": "#668DA5",
+        "color5": "#68B0D6",
+        "color6": "#94AAB6",
+        "color7": "#c4d3da",
+        "color8": "#899398",
+        "color9": "#376591",
+        "color10": "#4C7291",
+        "color11": "#55799B",
+        "color12": "#668DA5",
+        "color13": "#68B0D6",
+        "color14": "#94AAB6",
+        "color15": "#c4d3da"
+    }
+}
