@@ -14,6 +14,7 @@ export VISUAL="nvim"
 export EDITOR="nvim"
 export XDG_RUNTIME_DIR="/run/user/$UID"
 export DBUS_SESSION_BUS_ADDRESS="unix:path=${XDG_RUNTIME_DIR}/bus"
+export QT_SCALE_FACTOR_ROUNDING_POLICY=RoundPreferFloor
 
 [[ $- != *i* ]] && return
 
@@ -125,4 +126,4 @@ eval "$(starship init bash)"
 export PYENV_ROOT="$HOME/.pyenv"
 command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
 eval "$(pyenv init -)"
-alias config='/usr/bin/git --git-dir=/home/dwagn/.cfg/.git/ --work-tree=/home/dwagn'
+alias config='/usr/bin/git --git-dir=/home/dwagn/.cfg/ --work-tree=/home/dwagn'

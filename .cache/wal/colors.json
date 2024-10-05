@@ -1,28 +1,28 @@
 {
-    "wallpaper": "/home/dwagn/wallpapers/0070.jpg",
+    "wallpaper": "/home/dwagn/wallpapers/aron-marinelli-J69cxh_84gg-unsplash.jpg",
     "alpha": "100",
 
     "special": {
-        "background": "#061617",
-        "foreground": "#caccd0",
-        "cursor": "#caccd0"
+        "background": "#121f24",
+        "foreground": "#cfdbd9",
+        "cursor": "#cfdbd9"
     },
     "colors": {
-        "color0": "#061617",
-        "color1": "#5C6867",
-        "color2": "#7C8470",
-        "color3": "#757D83",
-        "color4": "#7B8389",
-        "color5": "#8B9097",
-        "color6": "#9A9FA5",
-        "color7": "#caccd0",
-        "color8": "#8d8e91",
-        "color9": "#5C6867",
-        "color10": "#7C8470",
-        "color11": "#757D83",
-        "color12": "#7B8389",
-        "color13": "#8B9097",
-        "color14": "#9A9FA5",
-        "color15": "#caccd0"
+        "color0": "#121f24",
+        "color1": "#89917A",
+        "color2": "#A0997F",
+        "color3": "#5C7788",
+        "color4": "#6E998B",
+        "color5": "#8D9886",
+        "color6": "#9CA698",
+        "color7": "#cfdbd9",
+        "color8": "#909997",
+        "color9": "#89917A",
+        "color10": "#A0997F",
+        "color11": "#5C7788",
+        "color12": "#6E998B",
+        "color13": "#8D9886",
+        "color14": "#9CA698",
+        "color15": "#cfdbd9"
     }
 }
