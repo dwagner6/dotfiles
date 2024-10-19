@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CONFIG_FILES="$HOME/.config/waybar/config.json $HOME/.config/waybar/style.css $HOME/.cache/wal/colors-waybar.css"
+CONFIG_FILES="$HOME/.config/waybar/config.json $HOME/.config/waybar/style.css"
 
 trap "killall waybar" EXIT
 
@@ -10,4 +10,3 @@ while true; do
   inotifywait -e create,modify $CONFIG_FILES
   killall waybar
 done
-

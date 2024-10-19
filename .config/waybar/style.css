@@ -2,9 +2,10 @@
   background: none;
 }
 #waybar.top > box.horizontal {
-  background: #282828;
+  background: #3c3836;
   box-shadow: 0 0 4pt #282828;
-  border-radius: 9pt;
+  border-radius: 8pt;
+  border: 2px solid #665c54;
   margin-top: 7pt;
   margin-bottom: 0pt;
   margin-left: 4pt;
@@ -49,11 +50,16 @@
 }
 
 #clock {
-  color: #655B53;
+  color: #98971a;
 }
 
 #memory {
   color: #fe8019;
+  margin-right: 12pt;
+}
+
+#network {
+  color: #D3869B;
   margin-right: 12pt;
 }
 
@@ -136,7 +142,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: "Hack Nerd Font Mono";
+  font-family: "Cousine Nerd Font";
   font-size: 11pt;
   font-weight: 600;
   transition-property: background;

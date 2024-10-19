@@ -60,7 +60,7 @@ size = "75% 60%"
 
 [scratchpads.file]
 animation = "fromTop"
-command = "kitty --class yazi -e yazi ~/mhome"
+command = "kitty --class yazi -e yazi ~/"
 class = "yazi"
 size = "75% 60%"
 

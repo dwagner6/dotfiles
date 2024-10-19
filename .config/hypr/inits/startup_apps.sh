@@ -9,3 +9,5 @@ sleep 10
 #flatpak run com.discordapp.Discord &
 
 pypr &
+
+onedrive-mount &
