@@ -106,6 +106,7 @@ alias ll='exa -alhB --icons --group-directories-first'
 alias tree='exa --tree'
 alias vim='nvim'
 alias v='vim'
+alias config='/usr/bin/git --git-dir=$HOME/.cfg/.git --work-tree=$HOME'
 xhost +local:root >/dev/null 2>&1
 
 # Bash won't get SIGWINCH if another process is in the foreground.
