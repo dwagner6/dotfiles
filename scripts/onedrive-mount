@@ -2,5 +2,4 @@
 # Mount onedrive remote at ~/onedrive in background
 
 /usr/bin/rclone \
---vfs-cache-mode writes \
-mount onedrive: ${HOME}/onedrive --daemon
+  --vfs-cache-mode full --buffer-size 256M --drive-pacer-burst 200 --drive-pacer-min-sleep 10ms --dir-cache-time 72h --vfs-read-chunk-size 128M --vfs-read-chunk-size-limit off mount onedrive-personal: ${HOME}/onedrive --daemon

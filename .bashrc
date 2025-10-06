@@ -8,8 +8,6 @@ export EDITOR="vim"
 export PATH="$HOME/.pyenv/versions/2.7.18/lib:$HOME/.local/bin:$PATH"
 export BROWSER="firefox"
 export SCRIPTS="$HOME/scripts"
-export ONEDRIVE="$HOME/OneDrive"
-export SECOND_BRAIN="$ONEDRIVE/second-brain"
 export VISUAL="nvim"
 export EDITOR="nvim"
 export XDG_RUNTIME_DIR="/run/user/$UID"
@@ -125,7 +123,8 @@ shopt -s histappend
 
 eval "$(starship init bash)"
 
-export PYENV_ROOT="$HOME/.pyenv"
-command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
-eval "$(pyenv init -)"
 alias config='/usr/bin/git --git-dir=/home/dwagn/.cfg/ --work-tree=/home/dwagn'
+
+if [[ -f $HOME/LFD_bashrc ]]; then
+  source $HOME/LFD_bashrc
+fi
